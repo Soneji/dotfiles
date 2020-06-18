@@ -26,8 +26,8 @@ if [ -f /etc/bash.command-not-found ]; then
     . /etc/bash.command-not-found
 fi
 
-if [ -f ~/.bash_aliases ]; then
-    . ~/.bash_aliases
+if [ -f ~/.aliases ]; then
+    . ~/.aliases
 fi
 
 #neofetch
@@ -38,3 +38,5 @@ export PATH=$PATH:/Users/dhaval/git-clones/flutter/bin
 export PATH=$PATH:/Library/TeX/texbin
 export PATH=$PATH:/Applications/MATLAB_R2019b.app/bin
 export PATH=$PATH:~/.local/bin
+
+SHELL_SESSION_HISTORY=0 

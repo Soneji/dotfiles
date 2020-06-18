@@ -10,7 +10,7 @@ export TERM="xterm-256color"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #ZSH_THEME="avit"
-ZSH_THEME="powerlevel9k/powerlevel9k"
+ZSH_THEME="spaceship"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -103,8 +103,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-if [ -f ~/.bash_aliases ]; then
-    . ~/.bash_aliases
+if [ -f ~/.aliases ]; then
+    . ~/.aliases
 fi
 
 #if type brew &>/dev/null; then
@@ -114,35 +114,35 @@ fi
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Customise the Powerlevel9k prompts
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(
-	custom_moji
-	virtualenv
-	vcs
-	dir_writable
-	status
-	user
-	dir
-)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(
-	ssh
-	time
-)
-POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
-POWERLEVEL9K_RPROMPT_ON_NEWLINE=false
-POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-POWERLEVEL9K_DIR_HOME_BACKGROUND='123'
-POWERLEVEL9K_DIR_HOME_SUBFOLDER_BACKGROUND='123'
-POWERLEVEL9K_DIR_ETC_BACKGROUND='123'
-POWERLEVEL9K_DIR_DEFAULT_BACKGROUND='123'
-#POWERLEVEL9K_TIME_FORMAT="%D{%t:%M %d/%m/%y}"
-POWERLEVEL9K_TIME_FORMAT="%D{%L:%M %d/%m/%y}"
-
-POWERLEVEL9K_CUSTOM_MOJI="echo -n '\uf6f6'"
-POWERLEVEL9K_CUSTOM_MOJI="echo -n 💩"
-POWERLEVEL9K_CUSTOM_MOJI_FOREGROUND="none"
-POWERLEVEL9K_CUSTOM_MOJI_BACKGROUND="none"
-
-POWERLEVEL9K_MODE='nerdfont-complete'
+# POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(
+# 	custom_moji
+# 	virtualenv
+# 	vcs
+# 	dir_writable
+# 	status
+# 	user
+# 	dir
+# )
+# POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(
+# 	ssh
+# 	time
+# )
+# POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
+# POWERLEVEL9K_RPROMPT_ON_NEWLINE=false
+# POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+# POWERLEVEL9K_DIR_HOME_BACKGROUND='123'
+# POWERLEVEL9K_DIR_HOME_SUBFOLDER_BACKGROUND='123'
+# POWERLEVEL9K_DIR_ETC_BACKGROUND='123'
+# POWERLEVEL9K_DIR_DEFAULT_BACKGROUND='123'
+# #POWERLEVEL9K_TIME_FORMAT="%D{%t:%M %d/%m/%y}"
+# POWERLEVEL9K_TIME_FORMAT="%D{%L:%M %d/%m/%y}"
+# 
+# POWERLEVEL9K_CUSTOM_MOJI="echo -n '\uf6f6'"
+# POWERLEVEL9K_CUSTOM_MOJI="echo -n 💩"
+# POWERLEVEL9K_CUSTOM_MOJI_FOREGROUND="none"
+# POWERLEVEL9K_CUSTOM_MOJI_BACKGROUND="none"
+# 
+# POWERLEVEL9K_MODE='nerdfont-complete'
 
 #neofetch
 export PATH="/usr/local/opt/ncurses/bin:$PATH"
