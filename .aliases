@@ -1,6 +1,7 @@
 export CLICOLOR=1
 
 alias nano='vim'
+alias e=vim
 alias ls='ls -GpF'
 alias ls='colorls'
 alias la='ls -A'
