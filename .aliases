@@ -1,0 +1,42 @@
+export CLICOLOR=1
+
+alias nano='vim'
+alias ls='ls -GpF'
+alias ls='colorls'
+alias la='ls -A'
+alias ll='ls -l'
+alias lala='ls -la'
+alias l='ls'
+alias cd..='cd ..'
+alias cd,,=cd..
+alias chmodxx='chmod +x'
+alias gc='git clone'
+alias foldersizesort='du -sh * |sort -h'
+
+alias vim="/usr/local/bin/vim"
+alias youtube-dl="youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
+
+alias grep='grep --color=always'
+alias EXIT=exit
+
+alias sshengsoc='ssh u1716149@engsoc.warwick.ac.uk'
+
+alias getip="curl icanhazip.com"
+alias pastebinit='pastebinit -P -a god'
+alias backup='_(){ cp $1 $1.bak; }; _'
+
+alias cls=clear
+
+alias maps='telnet mapscii.me'
+
+alias bk='_(){ D=$(date +%d-%m-%Y); cp $@ $@-$D.bk;echo "copied to $@-$D.bk"; }; _'
+
+alias ccat='pygmentize -g'
+alias netdiscover='sudo netdiscover'
+alias apachectl='sudo apachectl'
+
+alias synergyoff='launchctl unload /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
+alias synergyon='launchctl load /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
+alias sl='open /Users/dhaval/git-clones/sl_on_touchbar/sl_on_touchbar.app'
+
+alias nothankyouadobe="sudo -H killall ACCFinderSync \"Core Sync\" AdobeCRDaemon \"Adobe Creative\" AdobeIPCBroker node \"Adobe Desktop Service\" \"Adobe Crash Reporter\";sudo -H rm -rf \"/Library/LaunchAgents/com.adobe.AAM.Updater-1.0.plist\" \"/Library/LaunchAgents/com.adobe.AdobeCreativeCloud.plist\" \"/Library/LaunchDaemons/com.adobe.*.plist\""
