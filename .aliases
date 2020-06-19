@@ -15,6 +15,9 @@ alias cd,,=cd..
 alias chmodxx='chmod +x'
 alias gc='git clone'
 alias foldersizesort='du -sh * |sort -h'
+if ! [ "$system_type" = "Darwin" ]; then
+    alias open='xdg-open'
+fi
 
 if [ -f "/usr/local/bin/vim" ]; then
     alias vim="/usr/local/bin/vim"
@@ -37,8 +40,11 @@ alias maps='telnet mapscii.me'
 alias bk='_(){ D=$(date +%d-%m-%Y); cp $@ $@-$D.bk;echo "copied to $@-$D.bk"; }; _'
 
 alias ccat='pygmentize -g'
+# sudoify commands
 alias netdiscover='sudo netdiscover'
 alias apachectl='sudo apachectl'
+alias apt='sudo apt'
+alias pacman='sudo pacman'
 
 alias synergyoff='launchctl unload /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
 alias synergyon='launchctl load /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'

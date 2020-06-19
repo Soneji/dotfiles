@@ -46,6 +46,8 @@ fpath=( "$HOME/.config/zfunctions" $fpath )
 autoload -U promptinit; promptinit
 prompt spaceship
 
+SPACESHIP_VI_MODE_SHOW=false
+
 if [ -f "/usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh" ]; then
   source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 fi
