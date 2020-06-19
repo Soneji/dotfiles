@@ -1,0 +1,28 @@
+#!/bin/sh
+
+# script to normalise the sound in all the mp4 files in a directory
+shopt -s nullglob;
+for i in *.mp4 *.MP4 *.MOV *.mov; do
+  name="${i%.*}";
+  # create wav files for nognu normalize
+  ffmpeg -i "${i}" "${name}.wav" -hide_banner -loglevel warning;
+  echo "$name converted to wav";
+done
+
+# http://normalize.nongnu.org/ 
+# from brew install normalize
+normalize -mv --amplitude=-12dBFS *.wav;
+
+for i in *.mp4 *.MP4 *.MOV *.mov; do
+  name="${i%.*}";
+  extension="${i##*.}";
+  ffmpeg -i "$name.$extension" -i "$name.wav" -c:v copy -c:a aac -map 0:v:0 -map 1:a:0 "$name.t.$extension" -hide_banner -loglevel warning;
+  mv "${name}.t.$extension" "${name}.$extension";
+  echo "Merged $name video and normalised audio";
+done
+
+shopt -u nullglob;
+#cleanup
+echo "cleaning up"
+rm *.wav
+echo "done"
