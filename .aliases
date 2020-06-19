@@ -13,7 +13,12 @@ alias l='ls'
 alias cd..='cd ..'
 alias cd,,=cd..
 alias chmodxx='chmod +x'
-alias gc='git clone'
+alias sudo='sudo '
+gc () {
+    cd ~/git-clones &&
+    git clone "$1" &&
+    cd -- "$(basename "$1" .git)"
+}
 alias foldersizesort='du -sh * |sort -h'
 if ! [ "$system_type" = "Darwin" ]; then
     alias open='xdg-open'

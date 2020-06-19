@@ -5,6 +5,7 @@ SAVEHIST=10000
 setopt appendhistory autocd beep notify
 unsetopt extendedglob nomatch
 bindkey -v
+bindkey '^R' history-incremental-search-backward
 
 export TERM="xterm-256color"
 
@@ -25,21 +26,16 @@ export PATH=$PATH:/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib
 
 ENABLE_CORRECTION="true"
 setopt correct_all
+zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
+zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
+zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
+zstyle ':completion:*' matcher-list '' 'm:{[:lower:][:upper:]}={[:upper:][:lower:]}' '+l:|?=** r:|?=**'
 
 if [ -x "$(command -v thefuck)" ]; then
     eval $(thefuck --alias)
 fi
 
 export VIRTUAL_ENV_DISABLE_PROMPT=0
-
-
-# End of lines configured by zsh-newuser-install
-# The following lines were added by compinstall
-zstyle :compinstall filename '/Users/dhaval/.zshrc'
-
-autoload -Uz compinit
-compinit
-# End of lines added by compinstall
 
 fpath=( "$HOME/.config/zfunctions" $fpath )
 # Set Spaceship ZSH as a prompt
