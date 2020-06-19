@@ -15,11 +15,15 @@ HISTFILESIZE=10000
 shopt -s cdspell
 shopt -s nocasematch
 
-if [ -f $(brew --prefix)/etc/bash_completion ]; then
-    . $(brew --prefix)/etc/bash_completion
+if [ -x "$(command -v brew)" ]; then
+    if [ -f $(brew --prefix)/etc/bash_completion ]; then
+        . $(brew --prefix)/etc/bash_completion
+    fi
 fi
 
-eval $(thefuck --alias)
+if [ -x "$(command -v thefuck)" ]; then
+    eval $(thefuck --alias)
+fi
 
 #bash-insulter
 if [ -f /etc/bash.command-not-found ]; then

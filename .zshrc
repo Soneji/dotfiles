@@ -12,6 +12,7 @@ if [ -f ~/.aliases ]; then
     . ~/.aliases
 fi
 
+fpath=( "$HOME/.config/zfunctions" $fpath )
 
 export PATH="/usr/local/opt/ncurses/bin:$PATH"
 export PATH=$PATH:/usr/local/sbin
@@ -26,7 +27,9 @@ export PATH=$PATH:/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib
 ENABLE_CORRECTION="true"
 setopt correct_all
 
-eval $(thefuck --alias)
+if [ -x "$(command -v thefuck)" ]; then
+    eval $(thefuck --alias)
+fi
 
 export VIRTUAL_ENV_DISABLE_PROMPT=0
 
@@ -42,5 +45,16 @@ compinit
   # Set Spaceship ZSH as a prompt
   autoload -U promptinit; promptinit
   prompt spaceship
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+if [ -f "/usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh" ]; then
+  source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+fi
+if [ -f "/usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" ]; then
+  source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+fi
+if [ -f "/usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh" ]; then
+  source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+fi
+if [ -f "/usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" ]; then
+  source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+fi
