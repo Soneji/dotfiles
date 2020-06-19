@@ -1,0 +1,3 @@
+[submodule "git-clones/spaceship-prompt"]
+	path = git-clones/spaceship-prompt
+	url = https://github.com/denysdovhan/spaceship-prompt
