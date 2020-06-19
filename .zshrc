@@ -12,7 +12,6 @@ if [ -f ~/.aliases ]; then
     . ~/.aliases
 fi
 
-fpath=( "$HOME/.config/zfunctions" $fpath )
 
 export PATH="/usr/local/opt/ncurses/bin:$PATH"
 export PATH=$PATH:/usr/local/sbin
@@ -42,9 +41,10 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-  # Set Spaceship ZSH as a prompt
-  autoload -U promptinit; promptinit
-  prompt spaceship
+fpath=( "$HOME/.config/zfunctions" $fpath )
+# Set Spaceship ZSH as a prompt
+autoload -U promptinit; promptinit
+prompt spaceship
 
 if [ -f "/usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh" ]; then
   source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
