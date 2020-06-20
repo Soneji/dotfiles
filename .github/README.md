@@ -3,10 +3,10 @@
 Welcome to muh dotfiles repository. Here I store all muh configs
 
  - First install `yadm`
-```sh
-sudo apt install yadm
-sudo pacman -S yadm
-brew install yadm
+```yaml
+debian/ubuntu: sudo apt install yadm
+arch: sudo pacman -S yadm
+mac: brew install yadm
 ```
 
  - Second clone muh dotfiles with yadm
