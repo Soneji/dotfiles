@@ -79,6 +79,11 @@ alias snap='sudo snap'
 alias gdebi='sudo gdebi'
 alias pacman='sudo pacman'
 
+# make gpg work
+# https://unix.stackexchange.com/questions/257061/gentoo-linux-gpg-encrypts-properly-a-file-passed-through-parameter-but-throws-i/257065#257065
+GPG_TTY=$(tty)
+export GPG_TTY
+
 # app specific tings
 alias youtube-dl="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
 
