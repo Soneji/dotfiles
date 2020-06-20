@@ -10,7 +10,7 @@ mac: brew install yadm
 ```
 
  - Second clone muh dotfiles with yadm
-```sh
+```bash
 yadm clone git@github.com:overclockedllama/dotfiles.git	
 ```
 
