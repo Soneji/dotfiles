@@ -50,6 +50,7 @@ gc () {
 }
 
 # make 'open' work on loonix
+system_type=$(uname -s)
 if ! [ "$system_type" = "Darwin" ]; then
     alias open='xdg-open'
 fi
