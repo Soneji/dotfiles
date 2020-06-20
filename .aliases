@@ -1,50 +1,75 @@
 export CLICOLOR=1
 
-alias nano='vim'
+alias nano=vim
 alias e=vim
-alias ls='ls -GpF'
+
+# ls tings
 if [ -x "$(command -v colorls)" ]; then
     alias ls='colorls'
+else
+    alias ls='ls -GpF --color=auto'
 fi
 alias la='ls -A'
 alias ll='ls -l'
 alias lala='ls -la'
 alias l='ls'
-alias cd..='cd ..'
-alias cd,,=cd..
+
+# verbosity tings
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -iv" \
+	mkdir="mkdir -pv" \
+	ffmpeg="ffmpeg -hide_banner"
+
+
+# cd tings
+alias \
+    cd..='cd ..' \
+    cd,,=cd.. \
+    ..='cd ..' \
+    ...='cd ../..' \
+    ....='cd ../../..' \
+    .....='cd ../../../..' \
+    ......='cd ../../../../..' 
+
+# utilities and dat
+alias foldersizesort='du -sh * |sort -h'
 alias chmodxx='chmod +x'
+alias ccat='pygmentize -g'
+alias grep='grep --color=always'
+alias EXIT=exit
+alias cls=clear
 alias sudo='sudo '
+
 gc () {
+    # git clone to the right place
     cd ~/git-clones &&
     git clone "$1" &&
     cd -- "$(basename "$1" .git)"
 }
-alias foldersizesort='du -sh * |sort -h'
+
+# make 'open' work on loonix
 if ! [ "$system_type" = "Darwin" ]; then
     alias open='xdg-open'
 fi
 
+# if i've got a brewed vim use it
 if [ -f "/usr/local/bin/vim" ]; then
     alias vim="/usr/local/bin/vim"
 fi
-alias youtube-dl="youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
 
-alias grep='grep --color=always'
-alias EXIT=exit
-
+# ssh aliases
 alias sshengsoc='ssh u1716149@engsoc.warwick.ac.uk'
 
 alias getip="curl icanhazip.com"
-alias pastebinit='pastebinit -P -a god'
-alias backup='_(){ cp $1 $1.bak; }; _'
-
-alias cls=clear
-
 alias maps='telnet mapscii.me'
+alias pastebinit='pastebinit -P -a god'
 
-alias bk='_(){ D=$(date +%d-%m-%Y); cp $@ $@-$D.bk;echo "copied to $@-$D.bk"; }; _'
+# backup aliases
+alias bk='_(){ cp $1 $1.bak; }; _'
+alias backup='_(){ D=$(date +%d-%m-%Y); cp $@ $@-$D.bk;echo "copied to $@-$D.bk"; }; _'
 
-alias ccat='pygmentize -g'
 # sudoify commands
 alias netdiscover='sudo netdiscover'
 alias apachectl='sudo apachectl'
@@ -52,6 +77,9 @@ alias apt='sudo apt'
 alias snap='sudo snap'
 alias gdebi='sudo gdebi'
 alias pacman='sudo pacman'
+
+# app specific tings
+alias youtube-dl="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
 
 alias synergyoff='launchctl unload /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
 alias synergyon='launchctl load /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
