@@ -4,11 +4,15 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 [user]
-	name = Dhaval S
+	name = Dhaval Soneji
 	email = dhaval@soneji.xyz
+# [diff]
+# 	tool = vimdiff
+# [difftool]
+# 	prompt = false
+# [alias]
+# 	d = difftool
 [diff]
-	tool = vimdiff
-[difftool]
-	prompt = false
-[alias]
-	d = difftool
+    tool = vscode
+[difftool "vscode"]
+    cmd = code --wait --diff $LOCAL $REMOTE

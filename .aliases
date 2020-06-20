@@ -49,6 +49,8 @@ alias ccat='pygmentize -g'
 alias netdiscover='sudo netdiscover'
 alias apachectl='sudo apachectl'
 alias apt='sudo apt'
+alias snap='sudo snap'
+alias gdebi='sudo gdebi'
 alias pacman='sudo pacman'
 
 alias synergyoff='launchctl unload /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
