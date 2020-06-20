@@ -16,3 +16,5 @@
     tool = vscode
 [difftool "vscode"]
     cmd = code --wait --diff $LOCAL $REMOTE
+[core]
+	excludesfile = /Users/dhaval/.config/gitignore_global
