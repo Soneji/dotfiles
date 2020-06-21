@@ -14,4 +14,4 @@ mac: brew install yadm
 yadm clone https://github.com/overclockedllama/dotfiles.git
 ```
 
-Congratulations, you now have muh ultimate rice setup
+Congratulations, you now have muh ultimate rice setup for 1337 h4xx0r5 only
