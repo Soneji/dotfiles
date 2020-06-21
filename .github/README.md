@@ -11,7 +11,7 @@ mac: brew install yadm
 
  - Second clone muh dotfiles with yadm
 ```bash
-yadm clone git@github.com:overclockedllama/dotfiles.git	
+yadm clone https://github.com/overclockedllama/dotfiles.git
 ```
 
 Congratulations, you now have muh ultimate rice setup
