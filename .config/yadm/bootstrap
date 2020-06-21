@@ -4,7 +4,11 @@
 # be run from within $HOME (assuming this is the root of your dotfiles)
 cd "$HOME"
 
-yadm decrypt
+yadm decrypt || 
+(
+  export GPG_TTY=$(tty) && 
+  yadm decrypt
+)
 
 echo "Updating the yadm repo origin URL"
 yadm remote set-url origin "git@github.com:overclockedllama/dotfiles.git"
