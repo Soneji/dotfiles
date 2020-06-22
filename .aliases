@@ -48,6 +48,7 @@ gc () {
     git clone "$1" &&
     cd -- "$(basename "$1" .git)"
 }
+alias dev='github . && code .'
 
 # make 'open' work on loonix
 system_type=$(uname -s)
@@ -68,7 +69,7 @@ alias maps='telnet mapscii.me'
 alias pastebinit='pastebinit -P -a god'
 
 # backup aliases
-alias bk='_(){ cp $1 $1.bak; }; _'
+alias bk='_(){ cp $1 $1.bk; }; _'
 alias backup='_(){ D=$(date +%d-%m-%Y); cp $@ $@-$D.bk;echo "copied to $@-$D.bk"; }; _'
 
 # sudoify commands
