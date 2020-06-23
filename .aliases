@@ -81,9 +81,25 @@ alias gdebi='sudo gdebi'
 alias pacman='sudo pacman'
 
 # make gpg work
-# https://unix.stackexchange.com/questions/257061/gentoo-linux-gpg-encrypts-properly-a-file-passed-through-parameter-but-throws-i/257065#257065
+# https://unix.stackexchange.com/questions/257061/
+# gentoo-linux-gpg-encrypts-properly-a-file-passed-
+# through-parameter-but-throws-i/257065#257065
 GPG_TTY=$(tty)
 export GPG_TTY
+
+# make hist files go to cache no clog muh homedir
+export PYTHONHISTFILE=$HOME/.cache/.python_history
+export NODE_REPL_HISTORY=$HOME/.cache/.node_repl_history
+export REDISCLI_HISTFILE=$HOME/.cache/.rediscli_history
+export USQL_HISTORY=$HOME/.cache/.usql_history
+export SDCV_HISTFILE=$HOME/.cache/.sdcv_history
+export SQLITE_HISTORY=$HOME/.cache/.sqlite_history
+export GRADLE_USER_HOME=$HOME/.cache/gradle
+export ANDROID_SDK_HOME=$HOME/.cache/android
+export ANDROID_AVD_HOME=$HOME/.cache/androidavd
+export VSCODE_EXTENSIONS=$HOME/.config/vscode
+export LESSHISTFILE='-'
+alias wget="wget --hsts-file ~/.cache/wget-hsts"
 
 # app specific tings
 alias youtube-dl="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
@@ -92,4 +108,9 @@ alias synergyoff='launchctl unload /Library/LaunchAgents/com.symless.synergy.syn
 alias synergyon='launchctl load /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
 alias sl='open /Users/dhaval/git-clones/sl_on_touchbar/sl_on_touchbar.app'
 
-alias nothankyouadobe="sudo -H killall ACCFinderSync \"Core Sync\" AdobeCRDaemon \"Adobe Creative\" AdobeIPCBroker node \"Adobe Desktop Service\" \"Adobe Crash Reporter\";sudo -H rm -rf \"/Library/LaunchAgents/com.adobe.AAM.Updater-1.0.plist\" \"/Library/LaunchAgents/com.adobe.AdobeCreativeCloud.plist\" \"/Library/LaunchDaemons/com.adobe.*.plist\""
+alias nothankyouadobe="sudo -H killall ACCFinderSync \"Core Sync\" AdobeCRDaemon \"Adobe Creative\" \
+	AdobeIPCBroker node \"Adobe Desktop Service\" \"Adobe Crash Reporter\";sudo -H rm -rf \
+	\"/Library/LaunchAgents/com.adobe.AAM.Updater-1.0.plist\" \
+	\"/Library/LaunchAgents/com.adobe.AdobeCreativeCloud.plist\" \
+	 \"/Library/LaunchDaemons/com.adobe.*.plist\""
+

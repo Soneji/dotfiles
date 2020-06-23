@@ -11,6 +11,9 @@ set undofile
 set undolevels=10000
 set undoreload=100000
 
+" get rid of .viminfo file
+set viminfo+='1000,n~/.vim/viminfo
+
 " Fix auto-indentation for YAML files
 augroup yaml_fix
     autocmd!
