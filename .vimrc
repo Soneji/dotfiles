@@ -29,7 +29,15 @@ set statusline+=\ \ \ %l\ \ \    "line number
 set statusline+=%*   "switch back to statusline highlight
 set statusline+=\ \ \ %P\ \ \    "percentage thru file
 
+set shm=  " no short messages?
+set incsearch   "find the next match as we type the search
+set hlsearch    "hilight searches by default
 
+" Uncomment the following to have Vim jump to the last position when
+" reopening a file
+if has("autocmd")
+  au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+endif
 
 " filetype tings
 
@@ -42,5 +50,6 @@ augroup END
 augroup filetypedetect
     au BufRead,BufNewFile .aliases setfiletype sh
 augroup END
-
-" filetype tings
+augroup filetypedetect
+    au BufRead,BufNewFile spaceship-prompt setfiletype sh
+augroup END

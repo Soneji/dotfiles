@@ -2,6 +2,7 @@ export CLICOLOR=1
 
 alias nano=vim
 alias e=vim
+alias g=git
 
 # ls tings
 if [ -x "$(command -v colorls)" ]; then
