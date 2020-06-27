@@ -3,7 +3,8 @@ export CLICOLOR=1
 alias nano=vim
 alias e=vim
 alias g=git
-
+alias dc=docker-compose
+alias dtop='docker run --rm -ti -v /var/run/docker.sock:/var/run/docker.sock quay.io/vektorlab/ctop:latest'
 # ls tings
 if [ -x "$(command -v colorls)" ]; then
     alias ls='colorls'
@@ -100,6 +101,7 @@ export ANDROID_SDK_HOME=$HOME/.cache/android
 export ANDROID_AVD_HOME=$HOME/.cache/androidavd
 export VSCODE_EXTENSIONS=$HOME/.config/vscode
 export LESSHISTFILE='-'
+export npm_config_devdir=$HOME/.cache/node-gyp
 alias wget="wget --hsts-file ~/.cache/wget-hsts"
 
 # app specific tings
