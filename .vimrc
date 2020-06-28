@@ -64,6 +64,9 @@ autocmd VimEnter * if argc() == 1 | NERDTree | wincmd p | endif
 autocmd StdinReadPre * let s:std_in=1
 autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in") | exe 'NERDTree' argv()[0] | wincmd p | ene | endif
 
+" To show dot files (also call hidden files
+let NERDTreeShowHidden=1
+
 "Switch between different windows by their direction`
 no <C-j> <C-w>j| "switching to below window 
 no <C-k> <C-w>k| "switching to above window
