@@ -1,3 +1,4 @@
+# shellcheck lang=zsh
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.cache/zsh-histfile
 HISTSIZE=10000
