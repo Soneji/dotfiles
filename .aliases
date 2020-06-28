@@ -1,3 +1,4 @@
+# shellcheck lang=zsh
 export CLICOLOR=1
 
 alias nano=vim
