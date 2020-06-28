@@ -1,3 +1,6 @@
 [submodule "git-clones/spaceship-prompt"]
 	path = git-clones/spaceship-prompt
 	url = https://github.com/denysdovhan/spaceship-prompt
+[submodule ".vim/pack/vendor/start/nerdtree"]
+	path = .vim/pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
