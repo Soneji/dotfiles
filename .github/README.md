@@ -7,7 +7,7 @@ Welcome to muh dotfiles repository. Here I store all muh configs
 debian/ubuntu: sudo apt install yadm
 arch: sudo pacman -S yadm
 mac: brew install yadm
-noroot: curl -fLo ~/yadm https://github.com/TheLocehiliosan/yadm/raw/master/yadm && chmod a+x ~/yadm
+noroot: curl -fLo ~/.local/bin/yadm https://github.com/TheLocehiliosan/yadm/raw/master/yadm && chmod a+x ~/.local/bin/yadm && PATH="~/.local/bin/:$PATH"
 ```
 
  - Second clone muh dotfiles with yadm
