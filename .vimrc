@@ -2,7 +2,7 @@ set mouse=a
 syntax enable
 colorscheme monokai
 set number
-set clipboard=unnamed
+set clipboard^=unnamed,unnamedplus
 set backspace=indent,eol,start
 
 " undo ting to make persistant undos
