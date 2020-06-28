@@ -15,4 +15,6 @@ debian UNSTABLE ONLY: sudo apt install yadm
 yadm clone https://github.com/overclockedllama/dotfiles.git
 ```
 
+P.S. Just ignore the GPG password prompt (by pressing cancel or control c), as it's for my personal SSH keys
+
 Congratulations, you now have muh ultimate rice setup for 1337 h4xx0r5 only
