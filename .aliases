@@ -1,4 +1,4 @@
-#!/bin/bash
+# shellcheck shell=sh
 export CLICOLOR=1
 
 alias nano=vim
