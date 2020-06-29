@@ -2,6 +2,10 @@
 
 Welcome to muh dotfiles repository. Here I store all muh configs
 
+# example config
+![](terminal.png)
+![](vim.png)
+
  - First install `yadm`
 ```yaml
 arch: sudo pacman -S yadm
@@ -13,6 +17,11 @@ debian UNSTABLE ONLY: sudo apt install yadm
  - Second clone muh dotfiles with yadm
 ```bash
 yadm clone https://github.com/overclockedllama/dotfiles.git
+```
+
+ - 3rd change your default shell to zsh
+ ```bash
+chsh -s /bin/zsh
 ```
 
 P.S. Just ignore the GPG password prompt (by pressing cancel or control c), as it's for my personal SSH keys
