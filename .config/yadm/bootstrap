@@ -27,7 +27,17 @@ if [ "$system_type" = "Darwin" ]; then
         /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     fi
     
-    echo -n "Please enter if you would like to install ALL of overclockedllama's programs (y/n)? "
+
+    if [ "`echo -n`" = "-n" ]; then
+        n=""
+        c="\c"
+    else
+        n="-n"
+        c=""
+    fi
+
+
+    echo $n "Please enter if you would like to install ALL of overclockedllama's programs (y/n)? "
     read answer
     if [ "$answer" != "${answer#[Yy]}" ] ;then
         if [ -f "$HOME/.config/brewfile" ]; then
@@ -48,14 +58,27 @@ fi
 
 if command -v apt-get >/dev/null 2>&1; then
     apt-get update
-    apt-get install vim zsh-autosuggestions zsh-syntax-highlighting zsh
+    apt-get install vim zsh-autosuggestions zsh-syntax-highlighting zsh -y
 fi
 
 if command -v pacman >/dev/null 2>&1; then
-    pacman -Syu vim zsh-autosuggestions zsh-syntax-highlighting zsh
+    pacman -Syu vim zsh-autosuggestions zsh-syntax-highlighting zsh --noconfirm
 fi
 
 echo "changing shell to zsh boi"
 chsh -s /bin/zsh
 echo "you might need to log out and back in for changes to take effect"
+
+zsh
+
+
+
+
+
+
+
+
+
+
+
 
