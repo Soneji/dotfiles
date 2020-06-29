@@ -36,7 +36,7 @@ set hlsearch    "hilight searches by default
 " Uncomment the following to have Vim jump to the last position when
 " reopening a file
 if has("autocmd")
-  au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+    au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
 
 " " NERDTREE " "
@@ -73,8 +73,17 @@ no <C-k> <C-w>k| "switching to above window
 no <C-l> <C-w>l| "switching to right window 
 no <C-h> <C-w>h| "switching to left window
 
-" filetype tings
+" filetype and indent tings
 filetype indent on
+
+" https://stackoverflow.com/questions/234564/tab-key-4-spaces-and-auto-indent-after-curly-braces-in-vim#:~:text=The%20shiftwidth%20parameter%20controls%20your,Use%20%3Aset%20expandtab%20.
+filetype plugin indent on
+" show existing tab with 4 spaces width
+set tabstop=4
+" when indenting with '>', use 4 spaces width
+set shiftwidth=4
+" On pressing tab, insert 4 spaces
+set expandtab
 
 " Fix auto-indentation for YAML files
 augroup yaml_fix
