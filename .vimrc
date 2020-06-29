@@ -84,6 +84,8 @@ set tabstop=4
 set shiftwidth=4
 " On pressing tab, insert 4 spaces
 set expandtab
+" backspace deletes 4 spaces back if it was a tab uno
+set softtabstop=4
 
 " Fix auto-indentation for YAML files
 augroup yaml_fix
