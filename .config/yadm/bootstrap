@@ -55,5 +55,7 @@ if command -v pacman >/dev/null 2>&1; then
     pacman -Syu vim zsh-autosuggestions zsh-syntax-highlighting zsh
 fi
 
-
+echo "changing shell to zsh boi"
+chsh -s /bin/zsh
+echo "you might need to log out and back in for changes to take effect"
 
