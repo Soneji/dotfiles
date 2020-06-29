@@ -10,7 +10,7 @@ alias dtop='docker run --rm -ti -v /var/run/docker.sock:/var/run/docker.sock qua
 if [ -x "$(command -v colorls)" ]; then
     alias ls='colorls'
 else
-    alias ls='ls -GpF --color=auto'
+    alias ls='gls -GpF --color=auto'
 fi
 alias la='ls -A'
 alias ll='ls -l'

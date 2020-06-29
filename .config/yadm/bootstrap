@@ -45,7 +45,7 @@ if [ "$system_type" = "Darwin" ]; then
             brew bundle --file=~/.config/brewfile
         fi
     else
-        brew install vim zsh-autosuggestions zsh-syntax-highlighting
+        brew install vim zsh-autosuggestions zsh-syntax-highlighting coreutils
         brew cask install visual-studio-code
     fi
 
