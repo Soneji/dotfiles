@@ -2,10 +2,7 @@
 
 Welcome to muh dotfiles repository. Here I store all muh configs
 
-# example config
-![](terminal.png)
-![](vim.png)
-
+## how to install
  - First install `yadm`
 ```yaml
 arch: sudo pacman -S yadm
@@ -27,3 +24,8 @@ chsh -s /bin/zsh
 P.S. Just ignore the GPG password prompt (by pressing cancel or control c), as it's for my personal SSH keys
 
 Congratulations, you now have muh ultimate rice setup for 1337 h4xx0r5 only
+
+
+## examples
+![](terminal.png)
+![](vim.png)
