@@ -7,7 +7,8 @@ cd "$HOME"
 yadm decrypt || 
 (
   export GPG_TTY=$(tty) && 
-  yadm decrypt
+  yadm decrypt ||
+  echo unable to decrypt, continuing
 )
 
 echo "Updating the yadm repo origin URL"
@@ -21,17 +22,38 @@ system_type=$(uname -s)
 if [ "$system_type" = "Darwin" ]; then
 
   # install homebrew if it's missing
-  if ! command -v brew >/dev/null 2>&1; then
-    echo "Installing homebrew"
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  fi
+    if ! command -v brew >/dev/null 2>&1; then
+        echo "Installing homebrew"
+        /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    fi
+    
+    echo -n "Please enter if you would like to install ALL of overclockedllama's programs (y/n)? "
+    read answer
+    if [ "$answer" != "${answer#[Yy]}" ] ;then
+        if [ -f "$HOME/.config/brewfile" ]; then
+            echo "Updating homebrew bundle"
+            brew bundle --file=~/.config/brewfile
+        fi
+    else
+        brew install vim zsh-autosuggestions zsh-syntax-highlighting
+        brew cask install visual-studio-code
+    fi
 
-  if [ -f "$HOME/.config/brewfile" ]; then
-    echo "Updating homebrew bundle"
-    brew bundle --file=~/.config/brewfile
-  fi
-  if [ -d "$HOME/.config/iterm2" ]; then
-    echo "Setting iTerm preference folder"
-    defaults write com.googlecode.iterm2 PrefsCustomFolder "$HOME/.config/iterm2"
-  fi
+
+    if [ -d "$HOME/.config/iterm2" ]; then
+        echo "Setting iTerm preference folder"
+        defaults write com.googlecode.iterm2 PrefsCustomFolder "$HOME/.config/iterm2"
+    fi
 fi
+
+if command -v apt >/dev/null 2>&1; then
+    apt update
+    apt install vim zsh-autosuggestions zsh-syntax-highlighting zsh
+fi
+
+if command -v pacman >/dev/null 2>&1; then
+    pacman -Syu vim zsh-autosuggestions zsh-syntax-highlighting zsh
+fi
+
+
+
