@@ -66,7 +66,7 @@ if command -v pacman >/dev/null 2>&1; then
 fi
 
 echo "changing shell to zsh boi"
-chsh -s /bin/zsh
+chsh -s `which zsh`
 echo "you might need to log out and back in for changes to take effect"
 
 zsh
