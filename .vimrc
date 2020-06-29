@@ -73,8 +73,8 @@ no <C-k> <C-w>k| "switching to above window
 no <C-l> <C-w>l| "switching to right window 
 no <C-h> <C-w>h| "switching to left window
 
-
 " filetype tings
+filetype indent on
 
 " Fix auto-indentation for YAML files
 augroup yaml_fix
