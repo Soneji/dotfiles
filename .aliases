@@ -9,8 +9,10 @@ alias dtop='docker run --rm -ti -v /var/run/docker.sock:/var/run/docker.sock qua
 # ls tings
 if [ -x "$(command -v colorls)" ]; then
     alias ls='colorls'
-else
+elif [ -x "$(command -v gls)" ]; then
     alias ls='gls -GpF --color=auto'
+else
+    alias ls='ls --color=auto'
 fi
 alias la='ls -A'
 alias ll='ls -l'
