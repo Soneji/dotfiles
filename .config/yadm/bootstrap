@@ -62,7 +62,7 @@ if command -v apt-get >/dev/null 2>&1; then
 fi
 
 if command -v pacman >/dev/null 2>&1; then
-    sudo pacman -Syu vim zsh-autosuggestions zsh-syntax-highlighting zsh --noconfirm
+    sudo pacman -Syu gvim zsh-autosuggestions zsh-syntax-highlighting zsh --noconfirm
 fi
 
 echo "changing shell to zsh boi"
