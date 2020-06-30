@@ -69,6 +69,14 @@ echo "changing shell to zsh boi"
 chsh -s `which zsh`
 echo "you might need to log out and back in for changes to take effect"
 
+echo "Please enter the name you would like to use for git"
+read name
+echo "Please enter the email address you would like to use for git"
+read email
+
+git config --global user.name "$name"
+git config --global user.email "$email"
+
 zsh
 
 

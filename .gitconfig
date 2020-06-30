@@ -6,6 +6,7 @@
 [user]
 	name = Dhaval Soneji
 	email = dhaval@soneji.xyz
+	signingkey = 3AA5C34371567BD2
 # [diff]
 # 	tool = vimdiff
 # [difftool]
