@@ -6,7 +6,7 @@
 [user]
 	name = Dhaval Soneji
 	email = dhaval@soneji.xyz
-	signingkey = 3AA5C34371567BD2
+	signingkey = DFF45C93EB37337715166F25929843EA91E01651
 # [diff]
 # 	tool = vimdiff
 # [difftool]
@@ -19,3 +19,5 @@
     cmd = code --wait --diff $LOCAL $REMOTE
 [core]
 	excludesfile = /Users/dhaval/.config/gitignore_global
+[commit]
+	gpgsign = true
