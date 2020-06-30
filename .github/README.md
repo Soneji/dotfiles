@@ -5,10 +5,18 @@ Welcome to muh dotfiles repository. Here I store all muh configs
 ## how to install
  - First install `yadm`
 ```yaml
-arch: sudo pacman -S yadm
-mac: brew install yadm
-noroot/ubuntu: curl -fLo ~/.local/bin/yadm https://github.com/TheLocehiliosan/yadm/raw/master/yadm && chmod a+x ~/.local/bin/yadm && PATH="~/.local/bin/:$PATH"
-debian UNSTABLE ONLY: sudo apt install yadm
+Universal: 
+ curl -fLo ~/.local/bin/yadm https://github.com/TheLocehiliosan/yadm/raw/master/yadm && 
+ chmod a+x ~/.local/bin/yadm && PATH="~/.local/bin/:$PATH"
+
+Mac: 
+ brew install yadm
+
+Arch (AUR): 
+ yay -Syu yadm-git
+
+Debian UNSTABLE/Ubuntu 20.04+: 
+ sudo apt install yadm
 ```
 
  - Second clone muh dotfiles with yadm
