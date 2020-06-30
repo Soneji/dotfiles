@@ -6,10 +6,8 @@ Welcome to muh dotfiles repository. Here I store all muh configs
  - First install `yadm`
 ```yaml
 Universal: 
- mkdir -p ~/.local/bin &&
- curl -fLo ~/.local/bin/yadm https://github.com/TheLocehiliosan/yadm/raw/master/yadm && 
- chmod a+x ~/.local/bin/yadm && 
- PATH="~/.local/bin/:$PATH"
+ sudo curl -fLo /bin/yadm https://github.com/TheLocehiliosan/yadm/raw/master/yadm && 
+ sudo chmod a+x /bin/yadm
 
 Mac: 
  brew install yadm
