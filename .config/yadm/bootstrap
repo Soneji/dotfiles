@@ -58,7 +58,7 @@ fi
 
 if command -v apt-get >/dev/null 2>&1; then
     sudo apt-get update
-    sudo apt-get install vim zsh-autosuggestions zsh-syntax-highlighting zsh -y
+    sudo apt-get install vim-gtk zsh-autosuggestions zsh-syntax-highlighting zsh -y
 fi
 
 if command -v pacman >/dev/null 2>&1; then
