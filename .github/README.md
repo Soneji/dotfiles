@@ -2,7 +2,7 @@
 
 Welcome to muh dotfiles repository. Here I store all muh configs
 
-## how to install
+## How to install
 
 ```yaml
 Universal: 
@@ -42,6 +42,6 @@ Please report any issues you have [here](https://github.com/overclockedllama/dot
 Congratulations, you now have muh ultimate rice setup for 1337 h4xx0r5 only
 
 
-## examples
+## Screenshots
 ![](terminal.png)
 ![](vim.png)
