@@ -4,23 +4,13 @@
 # be run from within $HOME (assuming this is the root of your dotfiles)
 cd "$HOME"
 
-yadm decrypt || 
-(
-  export GPG_TTY=$(tty) && 
-  yadm decrypt ||
-  echo unable to decrypt, continuing
-)
-
-echo "Updating the yadm repo origin URL"
-yadm remote set-url origin "git@github.com:overclockedllama/dotfiles.git"
-
 echo "Init submodules"
 yadm submodule update --recursive --init
 
 system_type=$(uname -s)
 
 if [ "$system_type" = "Darwin" ]; then
-
+    echo "pinentry-program /usr/local/bin/pinentry-mac" > ~/.gnupg/gpg-agent.conf
   # install homebrew if it's missing
     if ! command -v brew >/dev/null 2>&1; then
         echo "Installing homebrew"
@@ -36,7 +26,8 @@ if [ "$system_type" = "Darwin" ]; then
         c=""
     fi
 
-
+    # note to future overclockedllama
+    # brew bundle dump && mv Brewfile ~/.config/brewfile
     echo $n "Please enter if you would like to install ALL of overclockedllama's programs (y/n)? "
     read answer
     if [ "$answer" != "${answer#[Yy]}" ] ;then
@@ -45,8 +36,8 @@ if [ "$system_type" = "Darwin" ]; then
             brew bundle --file=~/.config/brewfile
         fi
     else
-        brew install vim zsh-autosuggestions zsh-syntax-highlighting coreutils
-        brew cask install visual-studio-code
+        brew install vim zsh-autosuggestions zsh-syntax-highlighting coreutils pinentry-mac 2>/dev/null
+        brew cask install visual-studio-code 2>/dev/null
     fi
 
 
@@ -87,6 +78,17 @@ fi
 
 git config --global user.name "$name"
 git config --global user.email "$email"
+
+
+yadm decrypt || 
+(
+  export GPG_TTY=$(tty) && 
+  yadm decrypt ||
+  echo unable to decrypt, continuing
+)
+
+echo "Updating the yadm repo origin URL"
+yadm remote set-url origin "git@github.com:overclockedllama/dotfiles.git"
 
 zsh
 
