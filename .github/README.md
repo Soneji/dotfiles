@@ -31,11 +31,13 @@ Debian UNSTABLE/Ubuntu 20.04+:
 
 P.S. Just ignore the GPG password prompt (by pressing cancel or control c), as it's for my personal SSH keys
 
-# Errors
-## When cloning
+## Errors
+### When cloning
 If you encounter any error when cloning, run `yadm stash`, then reclone with `yadm clone -f https://github.com/overclockedllama/dotfiles.git`
-## Running bootstrap script
+### Running bootstrap script
 If you encounter any errors when running the bootstrap script, you can always rerun it with `./.config/yadm/bootstrap`
+### Others
+Please report any issues you have [here](https://github.com/overclockedllama/dotfiles/issues)
 
 Congratulations, you now have muh ultimate rice setup for 1337 h4xx0r5 only
 
