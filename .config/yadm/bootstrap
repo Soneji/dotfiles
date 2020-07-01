@@ -74,10 +74,14 @@ read name
 echo "Please enter the email address you would like to use for git"
 read email
 
-echo "Do you want to always enable gpg signing \nIf you do not know what this means just press n (y/n)"
+echo "Do you want to always enable gpg signing" 
+echo "If you do not know what this means just press n"
+echo "(y/n)"
+
 read answer2
 if [ "$answer2" == "${answer2#[Yy]}" ] ;then
     git config --global --unset commit.gpgsign  
+    git config --global --unset user.signingkey
 fi
 
 
