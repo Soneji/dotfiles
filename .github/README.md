@@ -31,11 +31,27 @@ Debian UNSTABLE/Ubuntu 20.04+:
 
 P.S. Just ignore the GPG password prompt (by pressing cancel or control c), as it's for my personal SSH keys
 
+## Updates
+This repository is regurlarly being updated. To update to the latest version of my dotfiles, run:
+```bash
+yadm pull
+```
+
 ## Errors
 ### When cloning
-If you encounter any error when cloning, run `yadm stash`, then reclone with `yadm clone -f https://github.com/overclockedllama/dotfiles.git`
+If you encounter any error when cloning, run 
+```bash
+yadm stash
+```
+Then reclone with 
+```
+yadm clone -f https://github.com/overclockedllama/dotfiles.git
+```
 ### Running bootstrap script
-If you encounter any errors when running the bootstrap script, you can always rerun it with `./.config/yadm/bootstrap`
+If you encounter any errors when running the bootstrap script, you can always rerun it with 
+```bash
+./.config/yadm/bootstrap
+```
 ### Others
 Please report any issues you have [here](https://github.com/overclockedllama/dotfiles/issues)
 
