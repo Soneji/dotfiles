@@ -71,6 +71,7 @@ echo "(y/n)"
 
 read answer2
 if [ "$answer2" == "${answer2#[Yy]}" ] ;then
+    #user said no
     git config --global --unset commit.gpgsign  
     git config --global --unset user.signingkey
 fi
@@ -79,14 +80,19 @@ fi
 git config --global user.name "$name"
 git config --global user.email "$email"
 
+echo "Are you overclockedllama?"
+read ans
 
-yadm decrypt || 
-(
-  export GPG_TTY=$(tty) && 
-  yadm decrypt ||
-  echo unable to decrypt, continuing
-)
+if [ "$ans" != "${ans#[Yy]}" ] ;then
+    # user said yes
 
+    yadm decrypt || 
+    (
+        export GPG_TTY=$(tty) && 
+        yadm decrypt ||
+        echo unable to decrypt
+    )
+fi
 echo "Updating the yadm repo origin URL"
 yadm remote set-url origin "git@github.com:overclockedllama/dotfiles.git"
 
