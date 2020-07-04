@@ -4,3 +4,6 @@
 [submodule ".vim/pack/vendor/start/nerdtree"]
 	path = .vim/pack/vendor/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule ".config/nvm"]
+	path = .config/nvm
+	url = https://github.com/nvm-sh/nvm.git
