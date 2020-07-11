@@ -919,6 +919,8 @@
 	</dict>
 	<key>Default Bookmark Guid</key>
 	<string>C3D6633D-41A2-4751-B8E5-42722EF01D2F</string>
+	<key>DisableFullscreenTransparency</key>
+	<true/>
 	<key>GlobalKeyMap</key>
 	<dict>
 		<key>0x19-0x60000</key>
@@ -1022,6 +1024,10 @@
 	</dict>
 	<key>HapticFeedbackForEsc</key>
 	<false/>
+	<key>HideMenuBarInFullscreen</key>
+	<true/>
+	<key>HideScrollbar</key>
+	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>IRMemory</key>
@@ -1080,13 +1086,13 @@
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
 	<string>560 560 799 448 0 0 1920 1177 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
-	<string>532 651 616 174 0 0 1680 1027 </string>
+	<string>652 766 616 174 0 0 1920 1177 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>650 600 620 392 0 0 1920 1177 </string>
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>413 262 1018 447 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>432 16 1418 888 0 0 1920 1177 </string>
+	<string>120 185 1682 894 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>22 290 777 554 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -1848,7 +1854,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.13223746827411167</real>
+			<real>0.15395582170050762</real>
 			<key>Unlimited Scrollback</key>
 			<true/>
 			<key>Use Bold Font</key>
@@ -1874,6 +1880,7 @@
 		<string>3.3.9</string>
 		<string>3.2.9</string>
 		<string>3.3.1</string>
+		<string>3.3.11</string>
 		<string>3.3.0</string>
 		<string>3.3.7</string>
 		<string>3.3.6</string>
@@ -1883,14 +1890,20 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {1920, 1200}}</string>
 		<key>topLeft</key>
-		<string>{705, 971}</string>
+		<string>{1008, 1008}</string>
 	</dict>
+	<key>NoSyncHaveUsedCopyMode</key>
+	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>37AD02DD-6145-4326-8145-84903C304E6A</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>33</integer>
+	<integer>34</integer>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
 	<real>586711788.99802101</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
@@ -2635,7 +2648,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-06-08T16:37:56Z</date>
+	<date>2020-07-02T22:58:02Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
@@ -2644,11 +2657,19 @@
 	<true/>
 	<key>SoundForEsc</key>
 	<false/>
+	<key>StatusBarPosition</key>
+	<integer>0</integer>
+	<key>TabStyleWithAutomaticOption</key>
+	<integer>5</integer>
+	<key>TabViewType</key>
+	<integer>0</integer>
+	<key>UseBorder</key>
+	<false/>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>iTerm Version</key>
-	<string>3.3.9</string>
+	<string>3.3.11</string>
 </dict>
 </plist>
