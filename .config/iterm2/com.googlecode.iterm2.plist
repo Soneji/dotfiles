@@ -1100,7 +1100,7 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>413 262 1018 447 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>380 264 650 467 0 0 1280 777 </string>
+	<string>117 124 786 586 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>10 189 650 467 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -1383,6 +1383,8 @@
 			<integer>80</integer>
 			<key>Command</key>
 			<string></string>
+			<key>Cursor Boost</key>
+			<real>0.0</real>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -1891,6 +1893,8 @@
 				<key>Red Component</key>
 				<real>0.023000000044703484</real>
 			</dict>
+			<key>Minimum Contrast</key>
+			<real>0.0</real>
 			<key>Mouse Reporting</key>
 			<true/>
 			<key>Name</key>
@@ -1953,6 +1957,19 @@
 			<false/>
 			<key>Sync Title</key>
 			<false/>
+			<key>Tab Color</key>
+			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
+				<key>Blue Component</key>
+				<real>0.80392156862745101</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
+				<key>Green Component</key>
+				<real>0.58039215686274515</real>
+				<key>Red Component</key>
+				<real>0.20784313725490197</real>
+			</dict>
 			<key>Tags</key>
 			<array/>
 			<key>Terminal Type</key>
@@ -1968,6 +1985,8 @@
 			<key>Use Italic Font</key>
 			<true/>
 			<key>Use Non-ASCII Font</key>
+			<true/>
+			<key>Use Tab Color</key>
 			<true/>
 			<key>Vertical Spacing</key>
 			<real>1</real>
@@ -1999,7 +2018,7 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {1280, 800}}</string>
 		<key>topLeft</key>
-		<string>{88, 587}</string>
+		<string>{322, 740}</string>
 	</dict>
 	<key>NoSyncHaveUsedCopyMode</key>
 	<true/>
@@ -2008,7 +2027,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>37AD02DD-6145-4326-8145-84903C304E6A</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>35</integer>
+	<integer>37</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
