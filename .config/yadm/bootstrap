@@ -45,6 +45,7 @@ if [ "$system_type" = "Darwin" ]; then
         echo "Setting iTerm preference folder"
         defaults write com.googlecode.iterm2 PrefsCustomFolder "$HOME/.config/iterm2"
     fi
+    osascript -e "on run(argv)" -e 'tell application "Finder" to set desktop picture to POSIX file argv' -e 'end' $HOME/.config/wallpaper.png
 fi
 
 if command -v apt-get >/dev/null 2>&1; then
