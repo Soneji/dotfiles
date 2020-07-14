@@ -5,7 +5,7 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-EDITOR=vim;
+export EDITOR=vim;
 
 export PS1="\[\e[31m\]\u\[\e[m\]\[\e[34m\]@\[\e[m\]\[\e[31m\]\h\[\e[m\]\[\e[34m\]:\[\e[m\]\[\e[31m\]\w\[\e[m\]\[\e[34m\]\\$\[\e[m\] "
 
