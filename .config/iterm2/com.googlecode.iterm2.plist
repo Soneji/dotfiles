@@ -2018,7 +2018,7 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {1280, 800}}</string>
 		<key>topLeft</key>
-		<string>{322, 740}</string>
+		<string>{263, 714}</string>
 	</dict>
 	<key>NoSyncHaveUsedCopyMode</key>
 	<true/>
@@ -2031,7 +2031,7 @@
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
 	<real>586711788.99802101</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
