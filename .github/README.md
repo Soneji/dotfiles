@@ -20,7 +20,7 @@ Arch (fresh install):
  sudo chmod a+x /bin/yadm &&
  yadm clone https://github.com/overclockedllama/dotfiles.git
 
-Arch (AUR): 
+Arch (AUR with yay): 
  yay -Syu yadm-git &&
  yadm clone https://github.com/overclockedllama/dotfiles.git
 
