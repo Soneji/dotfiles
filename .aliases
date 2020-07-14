@@ -4,6 +4,7 @@ export CLICOLOR=1
 alias nano=vim
 alias e=vim
 alias g=git
+alias y=yadm
 alias dc=docker-compose
 alias dtop='docker run --rm -ti -v /var/run/docker.sock:/var/run/docker.sock quay.io/vektorlab/ctop:latest'
 # ls tings
