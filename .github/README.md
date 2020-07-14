@@ -57,6 +57,22 @@ Please report any issues you have [here](https://github.com/overclockedllama/dot
 
 Congratulations, you now have muh ultimate rice setup for 1337 h4xx0r5 only
 
+## Benchmarks
+Speedtest
+```
+➜ for i in $(seq 1 10); do /usr/bin/time zsh -i -c exit; done
+        0.30 real         0.19 user         0.10 sys
+        0.30 real         0.19 user         0.10 sys
+        0.30 real         0.19 user         0.09 sys
+        0.29 real         0.18 user         0.09 sys
+        0.29 real         0.18 user         0.09 sys
+        0.29 real         0.18 user         0.09 sys
+        0.33 real         0.21 user         0.10 sys
+        0.36 real         0.22 user         0.12 sys
+        0.40 real         0.25 user         0.13 sys
+        0.36 real         0.22 user         0.12 sys
+```
+Much Fast, very zoom 🏎
 
 ## Screenshots
 ![](terminal.png)
