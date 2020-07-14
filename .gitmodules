@@ -7,3 +7,6 @@
 [submodule ".config/nvm"]
 	path = .config/nvm
 	url = https://github.com/nvm-sh/nvm.git
+[submodule "git-clones/nvm"]
+	path = git-clones/nvm
+	url = https://github.com/nvm-sh/nvm.git

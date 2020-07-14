@@ -25,19 +25,19 @@ function ting {
 if [ -f ~/.cache/dotfiles_update ]; then
     
     echo "dotfiles: Need to pull"
-    echo 'Do you want to update now? (y/n)'
+    echo "Do you want to update now? (y/n)"
 
     old_stty_cfg=$(stty -g)
     stty raw -echo ; answer=$(head -c 1) ; stty $old_stty_cfg # Careful playing with stty
     if echo "$answer" | grep -iq "^y" ;then
-        yadm pull
+        yadm pull && 
         rm -f ~/.cache/dotfiles_update
     fi
 
 elif [ -f ~/.cache/dotfiles_update_diverged ]; then
 
     echo "dotfiles: Need to pull but diverged"
-    echo 'Do you want to try automatic update now? (y/n)'
+    echo "Do you want to try automatic update now? (y/n)"
 
     old_stty_cfg=$(stty -g)
     stty raw -echo ; answer=$(head -c 1) ; stty $old_stty_cfg # Careful playing with stty
@@ -47,6 +47,6 @@ elif [ -f ~/.cache/dotfiles_update_diverged ]; then
         yadm stash apply
         rm -f ~/.cache/dotfiles_update_diverged
     fi
-    echo 'Automatic update complete but may have errored see logs above'
+    echo "Automatic update complete but may have errored see logs above"
 fi
 
