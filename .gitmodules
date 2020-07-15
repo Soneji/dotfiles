@@ -10,3 +10,6 @@
 [submodule "git-clones/nvm"]
 	path = git-clones/nvm
 	url = https://github.com/nvm-sh/nvm.git
+[submodule ".vim/plugged/nerdtree"]
+	path = .vim/plugged/nerdtree
+	url = https://github.com/preservim/nerdtree.git
