@@ -25,6 +25,7 @@ alias \
 	cp="cp -iv" \
 	mv="mv -iv" \
 	rm="rm -iv" \
+    rd="rm -r" \
 	mkdir="mkdir -pv" \
 	ffmpeg="ffmpeg -hide_banner"
 
@@ -111,6 +112,7 @@ export VSCODE_EXTENSIONS=$HOME/.config/vscode
 export LESSHISTFILE='-'
 export npm_config_devdir=$HOME/.cache/node-gyp
 alias wget="wget --hsts-file ~/.cache/wget-hsts"
+export PYLINTHOME=$HOME/.cache/pylint.d
 
 # app specific tings
 alias youtube-dl="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
