@@ -39,6 +39,12 @@ if has("autocmd")
     au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
 
+" Vim-plug tings
+call plug#begin()
+Plug 'preservim/nerdtree'
+call plug#end()
+
+
 " " NERDTREE " "
 
 " INFO - Use Control H and L to switch between windows of nerd tree
