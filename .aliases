@@ -7,6 +7,9 @@ alias g=git
 alias y=yadm
 alias dc=docker-compose
 alias dtop='docker run --rm -ti -v /var/run/docker.sock:/var/run/docker.sock quay.io/vektorlab/ctop:latest'
+if [ -x `command -v brew` ]; then
+    alias b=brew
+fi
 # ls tings
 if [ -x "$(command -v colorls)" ]; then
     alias ls='colorls'
@@ -138,4 +141,5 @@ if [[ -z $NVM_DIR ]]; then
 fi
 nvm "$@"
 }
+
 source ~/.config/yadm/pull.sh
