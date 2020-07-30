@@ -7,6 +7,9 @@ alias g=git
 alias y=yadm
 alias dc=docker-compose
 alias dtop='docker run --rm -ti -v /var/run/docker.sock:/var/run/docker.sock quay.io/vektorlab/ctop:latest'
+alias dockerip="docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}'"
+alias containerip=dockerip
+
 if [ -x `command -v brew` ]; then
     alias b=brew
 fi
