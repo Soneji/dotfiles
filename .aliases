@@ -96,6 +96,7 @@ alias apt='sudo apt'
 alias snap='sudo snap'
 alias gdebi='sudo gdebi'
 alias pacman='sudo pacman'
+alias p='sudo pacman'
 
 # make gpg work
 # https://unix.stackexchange.com/questions/257061/
