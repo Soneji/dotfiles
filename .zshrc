@@ -24,16 +24,12 @@ export PATH=$PATH:~/.local/bin
 export PATH=$PATH:/Library/Ruby/Gems/2.6.0
 export PATH=$PATH:/Users/dhaval/.gem/ruby/2.6.0
 export PATH=$PATH:/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0
-
+export PATH=$PATH:/Users/dhaval/.gem/ruby/2.6.0/bin
 #ENABLE_CORRECTION="true"
 #setopt correct_all
 
 autoload -Uz compinit
-if [ $(date +'%j') != $(stat -f '%Sm' -t '%j' ~/.zcompdump) ]; then
-  compinit -d ~/.cache/zcompdump
-else
-  compinit -C -d ~/.cache/zcompdump
-fi
+compinit -d ~/.cache/zcompdump
 
 #autoload -Uz compinit && compinit -d ~/.cache/zcompdump
 zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
