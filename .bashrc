@@ -36,9 +36,9 @@ fi
 
 #neofetch
 
-export PATH="$PATH:/Users/dhaval/Chromium Builds/depot_tools"
+export PATH="$PATH:~/Chromium Builds/depot_tools"
 export PATH=$PATH:/usr/local/sbin
-export PATH=$PATH:/Users/dhaval/git-clones/flutter/bin
+export PATH=$PATH:~/git-clones/flutter/bin
 export PATH=$PATH:/Library/TeX/texbin
 export PATH=$PATH:/Applications/MATLAB_R2019b.app/bin
 export PATH=$PATH:~/.local/bin

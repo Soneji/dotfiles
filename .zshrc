@@ -17,14 +17,14 @@ fi
 
 export PATH="/usr/local/opt/ncurses/bin:$PATH"
 export PATH=$PATH:/usr/local/sbin
-export PATH=$PATH:/Users/dhaval/git-clones/flutter/bin
+export PATH=$PATH:~/git-clones/flutter/bin
 export PATH=$PATH:/Library/TeX/texbin
 export PATH=$PATH:/Applications/MATLAB_R2019b.app/bin
 export PATH=$PATH:~/.local/bin
 export PATH=$PATH:/Library/Ruby/Gems/2.6.0
-export PATH=$PATH:/Users/dhaval/.gem/ruby/2.6.0
+export PATH=$PATH:~/.gem/ruby/2.6.0
 export PATH=$PATH:/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0
-export PATH=$PATH:/Users/dhaval/.gem/ruby/2.6.0/bin
+export PATH=$PATH:~/.gem/ruby/2.6.0/bin
 #ENABLE_CORRECTION="true"
 #setopt correct_all
 
