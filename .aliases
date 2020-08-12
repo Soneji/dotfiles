@@ -126,7 +126,7 @@ alias youtube-dl="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[
 
 alias synergyoff='launchctl unload /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
 alias synergyon='launchctl load /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
-alias sl='open /Users/dhaval/git-clones/sl_on_touchbar/sl_on_touchbar.app'
+alias sl='open ~/git-clones/sl_on_touchbar/sl_on_touchbar.app'
 
 alias nothankyouadobe="sudo -H killall ACCFinderSync \"Core Sync\" AdobeCRDaemon \"Adobe Creative\" \
 	AdobeIPCBroker node \"Adobe Desktop Service\" \"Adobe Crash Reporter\";sudo -H rm -rf \
@@ -145,5 +145,5 @@ if [[ -z $NVM_DIR ]]; then
 fi
 nvm "$@"
 }
-
+PATH=$PATH:~/Library/Android/sdk/ndk/21.3.6528147
 source ~/.config/yadm/pull.sh
