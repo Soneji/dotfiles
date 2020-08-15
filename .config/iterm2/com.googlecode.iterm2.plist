@@ -1462,7 +1462,7 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>413 262 1018 447 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-1440 0 1440 877 -1440 0 1440 877 </string>
+	<string>157 108 1540 1022 0 0 1920 1175 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>10 189 650 467 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -2401,7 +2401,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>37AD02DD-6145-4326-8145-84903C304E6A</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>46</integer>
+	<integer>48</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -3082,6 +3082,8 @@
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>570808616.84827495</real>
+	<key>OnlyWhenMoreTabs</key>
+	<false/>
 	<key>OpenBookmark</key>
 	<false/>
 	<key>PasteTabToStringTabStopSize</key>
@@ -3121,6 +3123,8 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/dhaval/.config/iterm2</string>
+	<key>PromptOnQuit</key>
+	<false/>
 	<key>PromptOnQuitEvenIfThereAreNoWindows</key>
 	<true/>
 	<key>QuickLookPreview_0FB70254-4231-41A4-950E-CB0A7E2D5FDB.WebKit2ColorFilterEnabled</key>
@@ -3158,7 +3162,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-08-01T12:24:43Z</date>
+	<date>2020-08-08T22:27:52Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
