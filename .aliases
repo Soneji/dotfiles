@@ -61,6 +61,11 @@ gc () {
     git clone "$1" &&
     cd -- "$(basename "$1" .git)"
 }
+if [ -x "$(command -v github-desktop)" ]; then
+    github () {
+        github-desktop open "$1" & disown
+    }
+fi
 alias dev='github . && code .'
 
 # make 'open' work on loonix
