@@ -125,6 +125,7 @@ export LESSHISTFILE='-'
 export npm_config_devdir=$HOME/.cache/node-gyp
 alias wget="wget --hsts-file ~/.cache/wget-hsts"
 export PYLINTHOME=$HOME/.cache/pylint.d
+export SPICETIFY_CONFIG=$HOME/.config/spacetify
 
 # app specific tings
 alias youtube-dl="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
