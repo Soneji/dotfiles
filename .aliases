@@ -100,8 +100,19 @@ alias apachectl='sudo apachectl'
 alias apt='sudo apt'
 alias snap='sudo snap'
 alias gdebi='sudo gdebi'
-alias pacman='sudo pacman'
-alias p='sudo pacman'
+if [[ -x "$(command -v brew)" && -x "$(command -v pacapt)" ]]; then
+    alias pacman=pacapt
+    alias p=pacman
+elif [[ ! -x $(command -v pacman) ]]; then
+    alias pacman=pacapt
+    alias pacman='sudo pacapt'
+    alias p='sudo pacapt'
+else
+    alias pacman='sudo pacman'
+    alias p='sudo pacman'
+fi
+
+
 
 # make gpg work
 # https://unix.stackexchange.com/questions/257061/
