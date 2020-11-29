@@ -1,4 +1,4 @@
-1652
+1848
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-ascii-0
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso10646-1
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso8859-1
@@ -231,6 +231,94 @@ Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-koi8-ru
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-koi8-u
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-koi8-uni
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-ascii-0
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-ibm-cp437
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-ibm-cp850
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-ibm-cp852
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-ibm-cp866
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso10646-1
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-1
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-10
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-13
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-15
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-16
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-2
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-3
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-4
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-9
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-koi8-e
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-koi8-r
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-koi8-ru
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-koi8-u
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-koi8-uni
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-ascii-0
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-ibm-cp437
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-ibm-cp850
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-ibm-cp852
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-ibm-cp866
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso10646-1
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-1
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-10
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-13
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-15
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-16
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-2
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-3
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-4
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-9
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-koi8-e
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-koi8-r
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-koi8-ru
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-koi8-u
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-koi8-uni
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-ascii-0
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-ibm-cp437
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-ibm-cp850
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-ibm-cp852
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-ibm-cp866
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso10646-1
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-1
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-10
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-13
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-15
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-16
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-2
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-3
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-4
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-9
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-koi8-e
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-koi8-r
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-koi8-ru
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-koi8-u
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-koi8-uni
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-ascii-0
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-ibm-cp437
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-ibm-cp850
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-ibm-cp852
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-ibm-cp866
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso10646-1
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-1
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-10
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-13
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-15
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-16
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-2
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-3
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-4
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-9
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-koi8-e
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-koi8-r
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-koi8-ru
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-koi8-u
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-koi8-uni
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
 Consolas Bold Italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-adobe-standard
 Consolas Bold Italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-ascii-0
 Consolas Bold Italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-iso10646-1
@@ -467,6 +555,114 @@ Font Awesome 5 Free-Regular-400.otf -misc-font awesome 5 free regular-medium-r-n
 Font Awesome 5 Free-Solid-900.otf -misc-font awesome 5 free solid-black-r-normal--0-0-0-0-p-0-adobe-fontspecific
 Font Awesome 5 Free-Solid-900.otf -misc-font awesome 5 free solid-black-r-normal--0-0-0-0-p-0-iso10646-1
 FontAwesome.ttf -misc-fontawesome-medium-r-normal--0-0-0-0-p-0-iso10646-1
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-ascii-0
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso10646-1
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-1
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-10
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-13
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-15
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-16
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-2
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-3
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-4
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-9
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-koi8-e
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-koi8-r
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-koi8-ru
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-koi8-u
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-koi8-uni
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-ascii-0
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso10646-1
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-1
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-10
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-13
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-15
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-16
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-2
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-3
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-4
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-9
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-koi8-e
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-koi8-r
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-koi8-ru
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-koi8-u
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-koi8-uni
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-ascii-0
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso10646-1
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-1
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-10
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-13
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-15
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-16
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-2
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-3
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-4
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-9
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-koi8-e
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-koi8-r
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-koi8-ru
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-koi8-u
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-koi8-uni
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-ascii-0
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-13
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-16
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-koi8-e
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-koi8-r
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-koi8-ru
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-koi8-u
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-ascii-0
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-13
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-ascii-0
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso10646-1
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-1
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-10
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-13
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-15
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-16
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-2
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-3
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-4
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-9
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-e
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-r
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-ru
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-u
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-uni
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
 Hack Bold Italic Nerd Font Complete Mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-ascii-0
 Hack Bold Italic Nerd Font Complete Mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-ibm-cp850
 Hack Bold Italic Nerd Font Complete Mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-ibm-cp852
