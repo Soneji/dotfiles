@@ -1,5 +1,7 @@
 # dotfiles
 
+<img src="https://repository-images.githubusercontent.com/273326483/25572780-bae4-11ea-906e-40b3c61ac496">
+
 Welcome to muh dotfiles repository. Here I store all muh configs
 
 ## How to install
