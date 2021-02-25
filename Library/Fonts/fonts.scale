@@ -1,4 +1,4 @@
-1848
+2076
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-ascii-0
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso10646-1
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso8859-1
@@ -840,6 +840,118 @@ Hack Regular Nerd Font Complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-
 Hack Regular Nerd Font Complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-koi8-uni
 Hack Regular Nerd Font Complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
 Hestina Font by Keithzo (7NTypes).otf -misc-hestina-medium-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-Bold.ttf -misc-k2d-bold-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-Bold.ttf -misc-k2d-bold-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-Bold.ttf -misc-k2d-bold-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-Bold.ttf -misc-k2d-bold-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-Bold.ttf -misc-k2d-bold-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-Bold.ttf -misc-k2d-bold-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-Bold.ttf -misc-k2d-bold-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-BoldItalic.ttf -misc-k2d-bold-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-BoldItalic.ttf -misc-k2d-bold-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-BoldItalic.ttf -misc-k2d-bold-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-BoldItalic.ttf -misc-k2d-bold-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-BoldItalic.ttf -misc-k2d-bold-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-BoldItalic.ttf -misc-k2d-bold-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-BoldItalic.ttf -misc-k2d-bold-i-normal--0-0-0-0-p-0-iso8859-4
+K2D-ExtraBold.ttf -misc-k2d extrabold-extrabold-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-ExtraBold.ttf -misc-k2d extrabold-extrabold-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-ExtraBold.ttf -misc-k2d extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-ExtraBold.ttf -misc-k2d extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-ExtraBold.ttf -misc-k2d extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-ExtraBold.ttf -misc-k2d extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-ExtraBold.ttf -misc-k2d extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-ExtraBoldItalic.ttf -misc-k2d extrabold-extrabold-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-ExtraBoldItalic.ttf -misc-k2d extrabold-extrabold-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-ExtraBoldItalic.ttf -misc-k2d extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-ExtraBoldItalic.ttf -misc-k2d extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-ExtraBoldItalic.ttf -misc-k2d extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-ExtraBoldItalic.ttf -misc-k2d extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-ExtraBoldItalic.ttf -misc-k2d extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-4
+K2D-ExtraLight.ttf -misc-k2d extralight-light-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-ExtraLight.ttf -misc-k2d extralight-light-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-ExtraLight.ttf -misc-k2d extralight-light-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-ExtraLight.ttf -misc-k2d extralight-light-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-ExtraLight.ttf -misc-k2d extralight-light-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-ExtraLight.ttf -misc-k2d extralight-light-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-ExtraLight.ttf -misc-k2d extralight-light-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-ExtraLightItalic.ttf -misc-k2d extralight-light-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-ExtraLightItalic.ttf -misc-k2d extralight-light-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-ExtraLightItalic.ttf -misc-k2d extralight-light-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-ExtraLightItalic.ttf -misc-k2d extralight-light-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-ExtraLightItalic.ttf -misc-k2d extralight-light-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-ExtraLightItalic.ttf -misc-k2d extralight-light-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-ExtraLightItalic.ttf -misc-k2d extralight-light-i-normal--0-0-0-0-p-0-iso8859-4
+K2D-Italic.ttf -misc-k2d-medium-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-Italic.ttf -misc-k2d-medium-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-Italic.ttf -misc-k2d-medium-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-Italic.ttf -misc-k2d-medium-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-Italic.ttf -misc-k2d-medium-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-Italic.ttf -misc-k2d-medium-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-Italic.ttf -misc-k2d-medium-i-normal--0-0-0-0-p-0-iso8859-4
+K2D-Light.ttf -misc-k2d light-light-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-Light.ttf -misc-k2d light-light-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-Light.ttf -misc-k2d light-light-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-Light.ttf -misc-k2d light-light-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-Light.ttf -misc-k2d light-light-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-Light.ttf -misc-k2d light-light-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-Light.ttf -misc-k2d light-light-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-LightItalic.ttf -misc-k2d light-light-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-LightItalic.ttf -misc-k2d light-light-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-LightItalic.ttf -misc-k2d light-light-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-LightItalic.ttf -misc-k2d light-light-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-LightItalic.ttf -misc-k2d light-light-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-LightItalic.ttf -misc-k2d light-light-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-LightItalic.ttf -misc-k2d light-light-i-normal--0-0-0-0-p-0-iso8859-4
+K2D-Medium.ttf -misc-k2d medium-medium-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-Medium.ttf -misc-k2d medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-Medium.ttf -misc-k2d medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-Medium.ttf -misc-k2d medium-medium-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-Medium.ttf -misc-k2d medium-medium-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-Medium.ttf -misc-k2d medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-Medium.ttf -misc-k2d medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-MediumItalic.ttf -misc-k2d medium-medium-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-MediumItalic.ttf -misc-k2d medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-MediumItalic.ttf -misc-k2d medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-MediumItalic.ttf -misc-k2d medium-medium-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-MediumItalic.ttf -misc-k2d medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-MediumItalic.ttf -misc-k2d medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-MediumItalic.ttf -misc-k2d medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+K2D-Regular.ttf -misc-k2d-medium-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-Regular.ttf -misc-k2d-medium-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-Regular.ttf -misc-k2d-medium-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-Regular.ttf -misc-k2d-medium-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-Regular.ttf -misc-k2d-medium-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-Regular.ttf -misc-k2d-medium-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-Regular.ttf -misc-k2d-medium-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-SemiBold.ttf -misc-k2d semibold-semibold-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-SemiBold.ttf -misc-k2d semibold-semibold-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-SemiBold.ttf -misc-k2d semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-SemiBold.ttf -misc-k2d semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-SemiBold.ttf -misc-k2d semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-SemiBold.ttf -misc-k2d semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-SemiBold.ttf -misc-k2d semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-SemiBoldItalic.ttf -misc-k2d semibold-semibold-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-SemiBoldItalic.ttf -misc-k2d semibold-semibold-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-SemiBoldItalic.ttf -misc-k2d semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-SemiBoldItalic.ttf -misc-k2d semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-SemiBoldItalic.ttf -misc-k2d semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-SemiBoldItalic.ttf -misc-k2d semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-SemiBoldItalic.ttf -misc-k2d semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-4
+K2D-Thin.ttf -misc-k2d thin-thin-r-normal--0-0-0-0-p-0-adobe-standard
+K2D-Thin.ttf -misc-k2d thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
+K2D-Thin.ttf -misc-k2d thin-thin-r-normal--0-0-0-0-p-0-iso8859-10
+K2D-Thin.ttf -misc-k2d thin-thin-r-normal--0-0-0-0-p-0-iso8859-11
+K2D-Thin.ttf -misc-k2d thin-thin-r-normal--0-0-0-0-p-0-iso8859-16
+K2D-Thin.ttf -misc-k2d thin-thin-r-normal--0-0-0-0-p-0-iso8859-2
+K2D-Thin.ttf -misc-k2d thin-thin-r-normal--0-0-0-0-p-0-iso8859-4
+K2D-ThinItalic.ttf -misc-k2d thin-thin-i-normal--0-0-0-0-p-0-adobe-standard
+K2D-ThinItalic.ttf -misc-k2d thin-thin-i-normal--0-0-0-0-p-0-iso10646-1
+K2D-ThinItalic.ttf -misc-k2d thin-thin-i-normal--0-0-0-0-p-0-iso8859-10
+K2D-ThinItalic.ttf -misc-k2d thin-thin-i-normal--0-0-0-0-p-0-iso8859-11
+K2D-ThinItalic.ttf -misc-k2d thin-thin-i-normal--0-0-0-0-p-0-iso8859-16
+K2D-ThinItalic.ttf -misc-k2d thin-thin-i-normal--0-0-0-0-p-0-iso8859-2
+K2D-ThinItalic.ttf -misc-k2d thin-thin-i-normal--0-0-0-0-p-0-iso8859-4
 Kollektif-Bold.ttf -misc-kollektif-bold-r-normal--0-0-0-0-p-0-iso10646-1
 Kollektif-BoldItalic.ttf -misc-kollektif-bold-i-normal--0-0-0-0-p-0-iso10646-1
 Kollektif-Italic.ttf -misc-kollektif-medium-i-normal--0-0-0-0-p-0-iso10646-1
@@ -1847,3 +1959,119 @@ adventpro-semibold.ttf -adobe-advent pro-semibold-r-normal--0-0-0-0-p-0-iso8859-
 adventpro-thin.ttf -adobe-advent pro-thin-r-normal--0-0-0-0-p-0-iso10646-1
 adventpro-thin.ttf -adobe-advent pro-thin-r-normal--0-0-0-0-p-0-iso8859-4
 bambu.ttf -misc-bambu-medium-r-normal--0-0-0-0-p-0-iso10646-1
+cmunbi.ttf -misc-cmu serif-bold-i-normal--0-0-0-0-p-0-iso10646-1
+cmunbi.ttf -misc-cmu serif-bold-i-normal--0-0-0-0-p-0-iso8859-16
+cmunbi.ttf -misc-cmu serif-bold-i-normal--0-0-0-0-p-0-koi8-r
+cmunbi.ttf -misc-cmu serif-bold-i-normal--0-0-0-0-p-0-koi8-u
+cmunbl.ttf -misc-cmu serif extra-bold-o-normal--0-0-0-0-p-0-iso10646-1
+cmunbl.ttf -misc-cmu serif extra-bold-o-normal--0-0-0-0-p-0-iso8859-16
+cmunbl.ttf -misc-cmu serif extra-bold-o-normal--0-0-0-0-p-0-koi8-r
+cmunbl.ttf -misc-cmu serif extra-bold-o-normal--0-0-0-0-p-0-koi8-u
+cmunbmo.ttf -misc-cmu bright-medium-o-normal--0-0-0-0-p-0-iso10646-1
+cmunbmo.ttf -misc-cmu bright-medium-o-normal--0-0-0-0-p-0-iso8859-16
+cmunbmo.ttf -misc-cmu bright-medium-o-normal--0-0-0-0-p-0-koi8-r
+cmunbmo.ttf -misc-cmu bright-medium-o-normal--0-0-0-0-p-0-koi8-u
+cmunbmr.ttf -misc-cmu bright-medium-r-normal--0-0-0-0-p-0-iso10646-1
+cmunbmr.ttf -misc-cmu bright-medium-r-normal--0-0-0-0-p-0-iso8859-16
+cmunbmr.ttf -misc-cmu bright-medium-r-normal--0-0-0-0-p-0-koi8-r
+cmunbmr.ttf -misc-cmu bright-medium-r-normal--0-0-0-0-p-0-koi8-u
+cmunbso.ttf -misc-cmu bright-semibold-o-normal--0-0-0-0-p-0-iso10646-1
+cmunbso.ttf -misc-cmu bright-semibold-o-normal--0-0-0-0-p-0-iso8859-16
+cmunbso.ttf -misc-cmu bright-semibold-o-normal--0-0-0-0-p-0-koi8-r
+cmunbso.ttf -misc-cmu bright-semibold-o-normal--0-0-0-0-p-0-koi8-u
+cmunbsr.ttf -misc-cmu bright-semibold-r-normal--0-0-0-0-p-0-iso10646-1
+cmunbsr.ttf -misc-cmu bright-semibold-r-normal--0-0-0-0-p-0-iso8859-16
+cmunbsr.ttf -misc-cmu bright-semibold-r-normal--0-0-0-0-p-0-koi8-r
+cmunbsr.ttf -misc-cmu bright-semibold-r-normal--0-0-0-0-p-0-koi8-u
+cmunbtl.ttf -misc-cmu typewriter text-extralight-r-normal--0-0-0-0-p-0-iso10646-1
+cmunbtl.ttf -misc-cmu typewriter text-extralight-r-normal--0-0-0-0-p-0-iso8859-16
+cmunbtl.ttf -misc-cmu typewriter text-extralight-r-normal--0-0-0-0-p-0-koi8-r
+cmunbtl.ttf -misc-cmu typewriter text-extralight-r-normal--0-0-0-0-p-0-koi8-u
+cmunbto.ttf -misc-cmu typewriter text-extralight-o-normal--0-0-0-0-p-0-iso10646-1
+cmunbto.ttf -misc-cmu typewriter text-extralight-o-normal--0-0-0-0-p-0-iso8859-16
+cmunbto.ttf -misc-cmu typewriter text-extralight-o-normal--0-0-0-0-p-0-koi8-r
+cmunbto.ttf -misc-cmu typewriter text-extralight-o-normal--0-0-0-0-p-0-koi8-u
+cmunbx.ttf -misc-cmu serif-bold-r-normal--0-0-0-0-p-0-iso10646-1
+cmunbx.ttf -misc-cmu serif-bold-r-normal--0-0-0-0-p-0-iso8859-16
+cmunbx.ttf -misc-cmu serif-bold-r-normal--0-0-0-0-p-0-koi8-r
+cmunbx.ttf -misc-cmu serif-bold-r-normal--0-0-0-0-p-0-koi8-u
+cmunci.ttf -misc-cmu classical serif-medium-i-normal--0-0-0-0-p-0-iso10646-1
+cmunci.ttf -misc-cmu classical serif-medium-i-normal--0-0-0-0-p-0-iso8859-16
+cmunci.ttf -misc-cmu classical serif-medium-i-normal--0-0-0-0-p-0-koi8-r
+cmunci.ttf -misc-cmu classical serif-medium-i-normal--0-0-0-0-p-0-koi8-u
+cmunit.ttf -misc-cmu typewriter text-medium-i-normal--0-0-0-0-p-0-iso10646-1
+cmunit.ttf -misc-cmu typewriter text-medium-i-normal--0-0-0-0-p-0-iso8859-16
+cmunit.ttf -misc-cmu typewriter text-medium-i-normal--0-0-0-0-p-0-koi8-r
+cmunit.ttf -misc-cmu typewriter text-medium-i-normal--0-0-0-0-p-0-koi8-u
+cmunobi.ttf -misc-cmu concrete-bold-i-normal--0-0-0-0-p-0-iso10646-1
+cmunobi.ttf -misc-cmu concrete-bold-i-normal--0-0-0-0-p-0-iso8859-16
+cmunobi.ttf -misc-cmu concrete-bold-i-normal--0-0-0-0-p-0-koi8-r
+cmunobi.ttf -misc-cmu concrete-bold-i-normal--0-0-0-0-p-0-koi8-u
+cmunobx.ttf -misc-cmu concrete-bold-r-normal--0-0-0-0-p-0-iso10646-1
+cmunobx.ttf -misc-cmu concrete-bold-r-normal--0-0-0-0-p-0-iso8859-16
+cmunobx.ttf -misc-cmu concrete-bold-r-normal--0-0-0-0-p-0-koi8-r
+cmunobx.ttf -misc-cmu concrete-bold-r-normal--0-0-0-0-p-0-koi8-u
+cmunorm.ttf -misc-cmu concrete-medium-r-normal--0-0-0-0-p-0-iso10646-1
+cmunorm.ttf -misc-cmu concrete-medium-r-normal--0-0-0-0-p-0-iso8859-16
+cmunorm.ttf -misc-cmu concrete-medium-r-normal--0-0-0-0-p-0-koi8-r
+cmunorm.ttf -misc-cmu concrete-medium-r-normal--0-0-0-0-p-0-koi8-u
+cmunoti.ttf -misc-cmu concrete-medium-i-normal--0-0-0-0-p-0-iso10646-1
+cmunoti.ttf -misc-cmu concrete-medium-i-normal--0-0-0-0-p-0-iso8859-16
+cmunoti.ttf -misc-cmu concrete-medium-i-normal--0-0-0-0-p-0-koi8-r
+cmunoti.ttf -misc-cmu concrete-medium-i-normal--0-0-0-0-p-0-koi8-u
+cmunrm.ttf -misc-cmu serif-medium-r-normal--0-0-0-0-p-0-iso10646-1
+cmunrm.ttf -misc-cmu serif-medium-r-normal--0-0-0-0-p-0-iso8859-16
+cmunrm.ttf -misc-cmu serif-medium-r-normal--0-0-0-0-p-0-koi8-r
+cmunrm.ttf -misc-cmu serif-medium-r-normal--0-0-0-0-p-0-koi8-u
+cmunsi.ttf -misc-cmu sans serif-medium-o-normal--0-0-0-0-p-0-iso10646-1
+cmunsi.ttf -misc-cmu sans serif-medium-o-normal--0-0-0-0-p-0-iso8859-16
+cmunsi.ttf -misc-cmu sans serif-medium-o-normal--0-0-0-0-p-0-koi8-r
+cmunsi.ttf -misc-cmu sans serif-medium-o-normal--0-0-0-0-p-0-koi8-u
+cmunsl.ttf -misc-cmu serif extra-medium-o-normal--0-0-0-0-p-0-iso10646-1
+cmunsl.ttf -misc-cmu serif extra-medium-o-normal--0-0-0-0-p-0-iso8859-16
+cmunsl.ttf -misc-cmu serif extra-medium-o-normal--0-0-0-0-p-0-koi8-r
+cmunsl.ttf -misc-cmu serif extra-medium-o-normal--0-0-0-0-p-0-koi8-u
+cmunso.ttf -misc-cmu sans serif-bold-o-normal--0-0-0-0-p-0-iso10646-1
+cmunso.ttf -misc-cmu sans serif-bold-o-normal--0-0-0-0-p-0-iso8859-16
+cmunso.ttf -misc-cmu sans serif-bold-o-normal--0-0-0-0-p-0-koi8-r
+cmunso.ttf -misc-cmu sans serif-bold-o-normal--0-0-0-0-p-0-koi8-u
+cmunss.ttf -misc-cmu sans serif-medium-r-normal--0-0-0-0-p-0-iso10646-1
+cmunss.ttf -misc-cmu sans serif-medium-r-normal--0-0-0-0-p-0-iso8859-16
+cmunss.ttf -misc-cmu sans serif-medium-r-normal--0-0-0-0-p-0-koi8-r
+cmunss.ttf -misc-cmu sans serif-medium-r-normal--0-0-0-0-p-0-koi8-u
+cmunssdc.ttf -misc-cmu sans serif demi condensed-semibold-r-condensed--0-0-0-0-p-0-iso10646-1
+cmunssdc.ttf -misc-cmu sans serif demi condensed-semibold-r-condensed--0-0-0-0-p-0-iso8859-16
+cmunssdc.ttf -misc-cmu sans serif demi condensed-semibold-r-condensed--0-0-0-0-p-0-koi8-r
+cmunssdc.ttf -misc-cmu sans serif demi condensed-semibold-r-condensed--0-0-0-0-p-0-koi8-u
+cmunsx.ttf -misc-cmu sans serif-bold-r-normal--0-0-0-0-p-0-iso10646-1
+cmunsx.ttf -misc-cmu sans serif-bold-r-normal--0-0-0-0-p-0-iso8859-16
+cmunsx.ttf -misc-cmu sans serif-bold-r-normal--0-0-0-0-p-0-koi8-r
+cmunsx.ttf -misc-cmu sans serif-bold-r-normal--0-0-0-0-p-0-koi8-u
+cmuntb.ttf -misc-cmu typewriter text-bold-r-normal--0-0-0-0-p-0-iso10646-1
+cmuntb.ttf -misc-cmu typewriter text-bold-r-normal--0-0-0-0-p-0-iso8859-16
+cmuntb.ttf -misc-cmu typewriter text-bold-r-normal--0-0-0-0-p-0-koi8-r
+cmuntb.ttf -misc-cmu typewriter text-bold-r-normal--0-0-0-0-p-0-koi8-u
+cmunti.ttf -misc-cmu serif-medium-i-normal--0-0-0-0-p-0-iso10646-1
+cmunti.ttf -misc-cmu serif-medium-i-normal--0-0-0-0-p-0-iso8859-16
+cmunti.ttf -misc-cmu serif-medium-i-normal--0-0-0-0-p-0-koi8-r
+cmunti.ttf -misc-cmu serif-medium-i-normal--0-0-0-0-p-0-koi8-u
+cmuntt.ttf -misc-cmu typewriter text-medium-r-normal--0-0-0-0-p-0-iso10646-1
+cmuntt.ttf -misc-cmu typewriter text-medium-r-normal--0-0-0-0-p-0-iso8859-16
+cmuntt.ttf -misc-cmu typewriter text-medium-r-normal--0-0-0-0-p-0-koi8-r
+cmuntt.ttf -misc-cmu typewriter text-medium-r-normal--0-0-0-0-p-0-koi8-u
+cmuntx.ttf -misc-cmu typewriter text-bold-i-normal--0-0-0-0-p-0-iso10646-1
+cmuntx.ttf -misc-cmu typewriter text-bold-i-normal--0-0-0-0-p-0-iso8859-16
+cmuntx.ttf -misc-cmu typewriter text-bold-i-normal--0-0-0-0-p-0-koi8-r
+cmuntx.ttf -misc-cmu typewriter text-bold-i-normal--0-0-0-0-p-0-koi8-u
+cmunui.ttf -misc-cmu serif upright italic-medium-i-normal--0-0-0-0-p-0-iso10646-1
+cmunui.ttf -misc-cmu serif upright italic-medium-i-normal--0-0-0-0-p-0-iso8859-16
+cmunui.ttf -misc-cmu serif upright italic-medium-i-normal--0-0-0-0-p-0-koi8-r
+cmunui.ttf -misc-cmu serif upright italic-medium-i-normal--0-0-0-0-p-0-koi8-u
+cmunvi.ttf -misc-cmu typewriter text variable width-medium-i-normal--0-0-0-0-p-0-iso10646-1
+cmunvi.ttf -misc-cmu typewriter text variable width-medium-i-normal--0-0-0-0-p-0-iso8859-16
+cmunvi.ttf -misc-cmu typewriter text variable width-medium-i-normal--0-0-0-0-p-0-koi8-r
+cmunvi.ttf -misc-cmu typewriter text variable width-medium-i-normal--0-0-0-0-p-0-koi8-u
+cmunvt.ttf -misc-cmu typewriter text variable width-medium-r-normal--0-0-0-0-p-0-iso10646-1
+cmunvt.ttf -misc-cmu typewriter text variable width-medium-r-normal--0-0-0-0-p-0-iso8859-16
+cmunvt.ttf -misc-cmu typewriter text variable width-medium-r-normal--0-0-0-0-p-0-koi8-r
+cmunvt.ttf -misc-cmu typewriter text variable width-medium-r-normal--0-0-0-0-p-0-koi8-u
