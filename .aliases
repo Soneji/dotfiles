@@ -163,4 +163,4 @@ fi
 nvm "$@"
 }
 PATH=$PATH:~/Library/Android/sdk/ndk/21.3.6528147
-source ~/.config/yadm/pull.sh
+source ~/.local/share/yadm/pull.sh
