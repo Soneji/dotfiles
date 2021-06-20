@@ -139,6 +139,9 @@ export PYLINTHOME=$HOME/.cache/pylint.d
 export SPICETIFY_CONFIG=$HOME/.config/spacetify
 
 # app specific tings
+alias yt="youtube-dl --add-metadata -i" \
+alias yta="yt -x -f bestaudio/best" \
+
 alias youtube-dl="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4"
 
 alias synergyoff='launchctl unload /Library/LaunchAgents/com.symless.synergy.synergy-service.plist'
