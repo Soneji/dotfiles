@@ -39,45 +39,45 @@ if has("autocmd")
     au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
 
-" Vim-plug tings
-call plug#begin()
-Plug 'preservim/nerdtree'
-call plug#end()
-
-
-" " NERDTREE " "
-
-" INFO - Use Control H and L to switch between windows of nerd tree
-
-" How can I open a NERDTree automatically when vim starts up?
-autocmd vimenter * NERDTree
-
-" How can I close vim if the only window left open is a NERDTree?
-autocmd BufEnter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
-
-" How can I close NERDTree window after opening a file in it
-" autocmd BufEnter NERD_tree_* nmap  d<CR> <CR> :NERDTreeToggle <CR>
-" autocmd BufLeave NERD_tree_* unmap d<CR>
-
-" If more than one window and previous buffer was NERDTree, go back to it.
-autocmd BufEnter * if bufname('#') =~# "^NERD_tree_" && winnr('$') > 1 | b# | endif
-
-" Make vim switch from tree to editor if file is passed
-autocmd StdinReadPre * let s:std_in=1
-autocmd VimEnter * if argc() == 1 | NERDTree | wincmd p | endif
-
-" How can I open NERDTree automatically when vim starts up on opening a directory?
-autocmd StdinReadPre * let s:std_in=1
-autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in") | exe 'NERDTree' argv()[0] | wincmd p | ene | endif
-
-" To show dot files (also call hidden files
-let NERDTreeShowHidden=1
-
-"Switch between different windows by their direction`
-no <C-j> <C-w>j| "switching to below window 
-no <C-k> <C-w>k| "switching to above window
-no <C-l> <C-w>l| "switching to right window 
-no <C-h> <C-w>h| "switching to left window
+" " Vim-plug tings
+" call plug#begin()
+" Plug 'preservim/nerdtree'
+" call plug#end()
+" 
+" 
+" " " NERDTREE " "
+" 
+" " INFO - Use Control H and L to switch between windows of nerd tree
+" 
+" " How can I open a NERDTree automatically when vim starts up?
+" autocmd vimenter * NERDTree
+" 
+" " How can I close vim if the only window left open is a NERDTree?
+" autocmd BufEnter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+" 
+" " How can I close NERDTree window after opening a file in it
+" " autocmd BufEnter NERD_tree_* nmap  d<CR> <CR> :NERDTreeToggle <CR>
+" " autocmd BufLeave NERD_tree_* unmap d<CR>
+" 
+" " If more than one window and previous buffer was NERDTree, go back to it.
+" autocmd BufEnter * if bufname('#') =~# "^NERD_tree_" && winnr('$') > 1 | b# | endif
+" 
+" " Make vim switch from tree to editor if file is passed
+" autocmd StdinReadPre * let s:std_in=1
+" autocmd VimEnter * if argc() == 1 | NERDTree | wincmd p | endif
+" 
+" " How can I open NERDTree automatically when vim starts up on opening a directory?
+" autocmd StdinReadPre * let s:std_in=1
+" autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in") | exe 'NERDTree' argv()[0] | wincmd p | ene | endif
+" 
+" " To show dot files (also call hidden files
+" let NERDTreeShowHidden=1
+" 
+" "Switch between different windows by their direction`
+" no <C-j> <C-w>j| "switching to below window 
+" no <C-k> <C-w>k| "switching to above window
+" no <C-l> <C-w>l| "switching to right window 
+" no <C-h> <C-w>h| "switching to left window
 
 " filetype and indent tings
 filetype indent on

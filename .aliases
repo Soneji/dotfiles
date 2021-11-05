@@ -165,5 +165,23 @@ if [[ -z $NVM_DIR ]]; then
 fi
 nvm "$@"
 }
+
+# function node {
+#     if [ ! -x `command -v node` ]; then
+#         nvm use default
+#     fi
+#     node "$@"
+# }
+# function npm {
+#     if [ ! -x `command -v npm` ]; then
+#         nvm use default
+#     fi
+#     npm "$@"
+# }
+
 PATH=$PATH:~/Library/Android/sdk/ndk/21.3.6528147
 source ~/.local/share/yadm/pull.sh
+source ~/perl5/perlbrew/etc/bashrc
+
+
+

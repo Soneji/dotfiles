@@ -1,12 +1,10 @@
-2085
+2396
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-ascii-0
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso10646-1
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso8859-1
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso8859-15
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-iso8859-9
 49443310.ttf -misc-futura md bt-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
-Apple Color Emoji.ttc -apple-apple color emoji-medium-r-normal--34-232-75-106-p-60-iso10646-1
-Apple Color Emoji.ttc -apple-apple color emoji-medium-r-normal--68-464-75-106-p-60-iso10646-1
 Apple Color Emoji.ttf -apple-apple color emoji-medium-r-normal--126-851-75-107-p-60-iso10646-1
 Apple Color Emoji.ttf -apple-apple color emoji-medium-r-normal--210-1418-75-107-p-60-iso10646-1
 Apple Color Emoji.ttf -apple-apple color emoji-medium-r-normal--26-174-75-108-p-60-iso10646-1
@@ -14,7 +12,7 @@ Apple Color Emoji.ttf -apple-apple color emoji-medium-r-normal--42-281-75-108-p-
 Apple Color Emoji.ttf -apple-apple color emoji-medium-r-normal--52-358-75-105-p-60-iso10646-1
 Apple Color Emoji.ttf -apple-apple color emoji-medium-r-normal--63-426-75-107-p-60-iso10646-1
 Apple Color Emoji.ttf -apple-apple color emoji-medium-r-normal--84-573-75-106-p-60-iso10646-1
-COMEN___.TTF -misc-comet-medium-r-normal--0-0-0-0-p-0-iso10646-1
+COMEP___.TTF -misc-comet-medium-r-normal--0-0-0-0-p-0-iso10646-1
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-adobe-standard
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-ascii-0
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-iso10646-1
@@ -27,6 +25,7 @@ Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-iso8859-2
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-koi8-e
 Calibri bold italic.ttf -microsoft-calibri-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -46,6 +45,7 @@ Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-iso8859-2
 Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-koi8-e
 Calibri bold.ttf -microsoft-calibri-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -65,6 +65,7 @@ Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-iso8859-2
 Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-koi8-e
 Calibri italic.ttf -microsoft-calibri-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -84,6 +85,7 @@ Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-iso8859-2
 Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-koi8-e
 Calibri.ttf -microsoft-calibri-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -102,6 +104,7 @@ Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-iso8859-2
 Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-koi8-e
 Cambria bold italic.ttf -microsoft-cambria-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -120,6 +123,7 @@ Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-iso8859-2
 Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-koi8-e
 Cambria bold.ttf -microsoft-cambria-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -138,6 +142,7 @@ Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-iso8859-2
 Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-koi8-e
 Cambria italic.ttf -microsoft-cambria-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -157,6 +162,7 @@ Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-iso8859-2
 Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-koi8-e
 Cambria.ttf -microsoft-cambria-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -176,6 +182,7 @@ Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-iso8859-2
 Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-koi8-e
 Candara bold italic.ttf -microsoft-candara-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -195,6 +202,7 @@ Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-iso8859-2
 Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-koi8-e
 Candara bold.ttf -microsoft-candara-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -214,6 +222,7 @@ Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-iso8859-2
 Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-koi8-e
 Candara italic.ttf -microsoft-candara-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -233,6 +242,7 @@ Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-iso8859-2
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-koi8-e
 Candara.ttf -microsoft-candara-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -255,6 +265,7 @@ CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-2
 CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-3
 CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-4
 CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-7
 CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-iso8859-9
 CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-koi8-e
 CascadiaCode.ttf -microsoft-cascadia code-medium-r-normal--0-0-0-0-m-0-koi8-r
@@ -277,6 +288,7 @@ CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8
 CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-3
 CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-4
 CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-7
 CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-iso8859-9
 CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-koi8-e
 CascadiaCodePL.ttf -microsoft-cascadia code pl-medium-r-normal--0-0-0-0-m-0-koi8-r
@@ -299,6 +311,7 @@ CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-2
 CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-3
 CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-4
 CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-7
 CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-iso8859-9
 CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-koi8-e
 CascadiaMono.ttf -microsoft-cascadia mono-medium-r-normal--0-0-0-0-m-0-koi8-r
@@ -321,6 +334,7 @@ CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8
 CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-3
 CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-4
 CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-5
+CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-7
 CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-iso8859-9
 CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-koi8-e
 CascadiaMonoPL.ttf -microsoft-cascadia mono pl-medium-r-normal--0-0-0-0-m-0-koi8-r
@@ -340,6 +354,7 @@ Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-iso8859-
 Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-iso8859-3
 Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-iso8859-4
 Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-iso8859-5
+Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-iso8859-7
 Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-iso8859-9
 Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-koi8-e
 Consolas bold italic.ttf -microsoft-consolas-bold-i-normal--0-0-0-0-m-0-koi8-r
@@ -359,6 +374,7 @@ Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-iso8859-2
 Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-iso8859-3
 Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-iso8859-4
 Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-iso8859-5
+Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-iso8859-7
 Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-iso8859-9
 Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-koi8-e
 Consolas bold.ttf -microsoft-consolas-bold-r-normal--0-0-0-0-m-0-koi8-r
@@ -378,6 +394,7 @@ Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-iso8859-2
 Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-iso8859-3
 Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-iso8859-4
 Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-iso8859-5
+Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-iso8859-7
 Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-iso8859-9
 Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-koi8-e
 Consolas italic.ttf -microsoft-consolas-medium-i-normal--0-0-0-0-m-0-koi8-r
@@ -397,6 +414,7 @@ Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-iso8859-2
 Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-iso8859-3
 Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-iso8859-4
 Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-iso8859-5
+Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-iso8859-7
 Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-iso8859-9
 Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-koi8-e
 Consolas.ttf -microsoft-consolas-medium-r-normal--0-0-0-0-m-0-koi8-r
@@ -416,6 +434,7 @@ Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-iso8
 Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-koi8-e
 Constantia bold italic.ttf -microsoft-constantia-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -435,6 +454,7 @@ Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-iso8859-2
 Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-koi8-e
 Constantia bold.ttf -microsoft-constantia-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -454,6 +474,7 @@ Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-iso8859
 Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-koi8-e
 Constantia italic.ttf -microsoft-constantia-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -473,6 +494,7 @@ Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-iso8859-2
 Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-koi8-e
 Constantia.ttf -microsoft-constantia-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -492,6 +514,7 @@ Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-iso8859-2
 Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-koi8-e
 Corbel bold italic.ttf -microsoft-corbel-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -511,6 +534,7 @@ Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-iso8859-2
 Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-koi8-e
 Corbel bold.ttf -microsoft-corbel-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -530,6 +554,7 @@ Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-iso8859-2
 Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-koi8-e
 Corbel italic.ttf -microsoft-corbel-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -549,6 +574,7 @@ Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-iso8859-2
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-koi8-e
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -556,6 +582,8 @@ Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-koi8-ru
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-koi8-u
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-koi8-uni
 Corbel.ttf -microsoft-corbel-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+FillMeijer.otf -misc-fill meijer-medium-r-normal--0-0-0-0-p-0-adobe-fontspecific
+FillMeijer.otf -misc-fill meijer-medium-r-normal--0-0-0-0-p-0-iso10646-1
 FloralCapitals.ttf -misc-floral capitals-medium-r-normal--0-0-0-0-p-0-iso10646-1
 Font awesome 5 brands-regular-400.otf -misc-font awesome 5 brands regular-medium-r-normal--0-0-0-0-p-0-adobe-fontspecific
 Font awesome 5 brands-regular-400.otf -misc-font awesome 5 brands regular-medium-r-normal--0-0-0-0-p-0-iso10646-1
@@ -575,6 +603,7 @@ GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-2
 GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-3
 GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-4
 GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-7
 GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-iso8859-9
 GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-koi8-e
 GoogleSans-Bold.ttf -misc-google sans-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -593,6 +622,7 @@ GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-2
 GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-3
 GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-4
 GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-7
 GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-iso8859-9
 GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-koi8-e
 GoogleSans-BoldItalic.ttf -misc-google sans-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -611,6 +641,7 @@ GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-2
 GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-3
 GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-4
 GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-7
 GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-iso8859-9
 GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-koi8-e
 GoogleSans-Italic.ttf -misc-google sans-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -629,6 +660,7 @@ GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8
 GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
 GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
 GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-7
 GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
 GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-koi8-e
 GoogleSans-Medium.ttf -misc-google sans medium-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -647,6 +679,7 @@ GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-
 GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
 GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
 GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
 GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
 GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-koi8-e
 GoogleSans-MediumItalic.ttf -misc-google sans medium-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -665,6 +698,7 @@ GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-2
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-3
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-4
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-7
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-iso8859-9
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-e
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -672,6 +706,240 @@ GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-ru
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-u
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-koi8-uni
 GoogleSans-Regular.ttf -misc-google sans-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-Black.ttf -misc-hk grotesk black-black-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-BlackItalic.ttf -misc-hk grotesk black-black-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-Bold.ttf -misc-hk grotesk-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-BoldItalic.ttf -misc-hk grotesk-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-ExtraBold.ttf -misc-hk grotesk extrabold-extrabold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-ExtraBoldItalic.ttf -misc-hk grotesk extrabold-extrabold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-ExtraLight.ttf -misc-hk grotesk extralight-extralight-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-ExtraLightItalic.ttf -misc-hk grotesk extralight-extralight-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-Italic.ttf -misc-hk grotesk-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-Light.ttf -misc-hk grotesk light-light-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-LightItalic.ttf -misc-hk grotesk light-light-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-Medium.ttf -misc-hk grotesk medium-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-MediumItalic.ttf -misc-hk grotesk medium-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-Regular.ttf -misc-hk grotesk-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-SemiBold.ttf -misc-hk grotesk semibold-semibold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-SemiBoldItalic.ttf -misc-hk grotesk semibold-semibold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-Thin.ttf -misc-hk grotesk thin-thin-r-normal--0-0-0-0-p-0-microsoft-cp1252
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-adobe-standard
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-ascii-0
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso10646-1
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-1
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-10
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-13
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-15
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-16
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-2
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-3
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-4
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-iso8859-9
+HKGrotesk-ThinItalic.ttf -misc-hk grotesk thin-thin-i-normal--0-0-0-0-p-0-microsoft-cp1252
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-ascii-0
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-ibm-cp850
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-ibm-cp852
@@ -686,6 +954,7 @@ Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-no
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-3
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-4
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-5
+Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-7
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-9
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-koi8-e
 Hack bold italic nerd font complete mono.ttf -misc-hack nerd font mono-bold-i-normal--0-0-0-0-m-0-koi8-r
@@ -708,6 +977,7 @@ Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-
 Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-0-0-p-0-koi8-e
 Hack bold italic nerd font complete.ttf -misc-hack nerd font-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -730,6 +1000,7 @@ Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0
 Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-3
 Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-4
 Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-5
+Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-7
 Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-9
 Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0-0-0-0-m-0-koi8-e
 Hack bold nerd font complete mono.ttf -misc-hack nerd font mono-bold-r-normal--0-0-0-0-m-0-koi8-r
@@ -752,6 +1023,7 @@ Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0
 Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0-koi8-e
 Hack bold nerd font complete.ttf -misc-hack nerd font-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -774,6 +1046,7 @@ Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-norma
 Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-3
 Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-4
 Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-5
+Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-7
 Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-9
 Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-normal--0-0-0-0-m-0-koi8-e
 Hack italic nerd font complete mono.ttf -misc-hack nerd font mono-medium-i-normal--0-0-0-0-m-0-koi8-r
@@ -796,6 +1069,7 @@ Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0
 Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0-p-0-koi8-e
 Hack italic nerd font complete.ttf -misc-hack nerd font-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -819,6 +1093,7 @@ Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-norm
 Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-3
 Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-4
 Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-5
+Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-7
 Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-9
 Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-normal--0-0-0-0-m-0-koi8-e
 Hack regular nerd font complete mono.ttf -misc-hack nerd font mono-medium-r-normal--0-0-0-0-m-0-koi8-r
@@ -841,6 +1116,7 @@ Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-
 Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-koi8-e
 Hack regular nerd font complete.ttf -misc-hack nerd font-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -991,6 +1267,7 @@ Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0
 Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0-0-p-0-koi8-e
 Menlo bold for powerline.ttf -bitstream-menlo for powerline-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -1010,6 +1287,7 @@ Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal
 Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal--0-0-0-0-p-0-koi8-e
 Menlo bold italic for powerline.ttf -bitstream-menlo for powerline-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -1033,6 +1311,7 @@ Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-
 Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-m-0-iso8859-3
 Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-m-0-iso8859-4
 Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-m-0-iso8859-5
+Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-m-0-iso8859-7
 Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-m-0-iso8859-9
 Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-m-0-koi8-e
 Menlo for powerline.ttf -bitstream-menlo for powerline-medium-r-normal--0-0-0-0-m-0-koi8-r
@@ -1056,6 +1335,7 @@ Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0
 Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0-0-0-0-p-0-koi8-e
 Menlo italic for powerline.ttf -bitstream-menlo for powerline-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -1082,6 +1362,7 @@ OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-iso8859-2
 OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-koi8-e
 OpenSans-Bold.ttf -misc-open sans-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -1101,6 +1382,7 @@ OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-iso8859-2
 OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-koi8-e
 OpenSans-BoldItalic.ttf -misc-open sans-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -1120,6 +1402,7 @@ OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0
 OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0-koi8-e
 OpenSans-ExtraBold.ttf -misc-open sans extrabold-extrabold-r-normal--0-0-0-0-p-0-koi8-r
@@ -1139,6 +1422,7 @@ OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0
 OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0-0-p-0-koi8-e
 OpenSans-ExtraBoldItalic.ttf -misc-open sans extrabold-extrabold-i-normal--0-0-0-0-p-0-koi8-r
@@ -1158,6 +1442,7 @@ OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-iso8859-2
 OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-koi8-e
 OpenSans-Italic.ttf -misc-open sans-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -1177,6 +1462,7 @@ OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-iso8859-2
 OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-koi8-e
 OpenSans-Light.ttf -misc-open sans light-light-r-normal--0-0-0-0-p-0-koi8-r
@@ -1196,6 +1482,7 @@ OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-iso88
 OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-koi8-e
 OpenSans-LightItalic.ttf -misc-open sans light-light-i-normal--0-0-0-0-p-0-koi8-r
@@ -1215,6 +1502,7 @@ OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-iso8859-2
 OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-koi8-e
 OpenSans-Regular.ttf -misc-open sans-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -1234,6 +1522,7 @@ OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-is
 OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-koi8-e
 OpenSans-SemiBold.ttf -misc-open sans semibold-semibold-r-normal--0-0-0-0-p-0-koi8-r
@@ -1253,6 +1542,7 @@ OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-3
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-4
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-5
+OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-7
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-iso8859-9
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-koi8-e
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-koi8-r
@@ -1560,6 +1850,7 @@ Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-2
 Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-3
 Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-4
 Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-7
 Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-9
 Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-koi8-e
 Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-koi8-r
@@ -1579,6 +1870,7 @@ Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-2
 Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-3
 Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-4
 Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-7
 Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-9
 Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-koi8-e
 Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-koi8-r
@@ -1598,6 +1890,7 @@ Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-2
 Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-3
 Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-4
 Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-7
 Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-9
 Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-koi8-e
 Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -1617,6 +1910,7 @@ Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-2
 Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-3
 Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-4
 Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-7
 Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-9
 Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-koi8-e
 Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-koi8-r
@@ -1636,6 +1930,7 @@ Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-2
 Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-koi8-e
 Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -1655,6 +1950,7 @@ Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-2
 Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-3
 Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-4
 Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-7
 Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-9
 Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-koi8-e
 Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-koi8-r
@@ -1674,6 +1970,7 @@ Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-2
 Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-3
 Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-4
 Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-7
 Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-9
 Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-koi8-e
 Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-koi8-r
@@ -1693,6 +1990,7 @@ Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
 Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-koi8-e
 Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -1712,6 +2010,7 @@ Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859
 Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
 Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
 Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
 Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
 Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-koi8-e
 Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-koi8-r
@@ -1731,6 +2030,7 @@ Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-2
 Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-4
 Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-7
 Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-koi8-e
 Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -1750,6 +2050,7 @@ Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-2
 Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-3
 Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-4
 Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-7
 Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-9
 Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-koi8-e
 Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-koi8-r
@@ -1769,6 +2070,7 @@ Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-2
 Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-3
 Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-4
 Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-7
 Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-9
 Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-koi8-e
 Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-koi8-r
@@ -1788,6 +2090,7 @@ RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-is
 RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-3
 RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-4
 RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-7
 RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-9
 RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-koi8-e
 RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-koi8-r
@@ -1807,6 +2110,7 @@ RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-
 RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-3
 RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-4
 RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-7
 RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-9
 RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-koi8-e
 RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-koi8-r
@@ -1826,6 +2130,7 @@ RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-
 RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-3
 RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-4
 RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-7
 RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-9
 RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-koi8-e
 RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-koi8-r
@@ -1845,6 +2150,7 @@ RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-
 RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-3
 RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-4
 RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-7
 RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-9
 RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-koi8-e
 RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-koi8-r
@@ -1864,6 +2170,7 @@ RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--
 RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-3
 RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-4
 RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-7
 RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-9
 RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-koi8-e
 RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-koi8-r
@@ -1883,6 +2190,7 @@ RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p
 RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-3
 RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-4
 RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-7
 RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-9
 RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-koi8-e
 RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-koi8-r
@@ -1902,6 +2210,7 @@ RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-iso8859-2
 RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-iso8859-3
 RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-iso8859-4
 RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-iso8859-5
+RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-iso8859-7
 RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-iso8859-9
 RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-koi8-e
 RobotoSlab-Bold.ttf -misc-roboto slab-bold-r-normal--0-0-0-0-p-0-koi8-r
@@ -1921,6 +2230,7 @@ RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-iso8859-2
 RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-iso8859-3
 RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-iso8859-4
 RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-iso8859-5
+RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-iso8859-7
 RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-iso8859-9
 RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-koi8-e
 RobotoSlab-Regular.ttf -misc-roboto slab-medium-r-normal--0-0-0-0-p-0-koi8-r
@@ -1940,6 +2250,7 @@ RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-iso8859-2
 RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-iso8859-3
 RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-iso8859-4
 RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-iso8859-5
+RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-iso8859-7
 RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-iso8859-9
 RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-koi8-e
 RobotoSlab-Thin.ttf -misc-roboto slab-light-r-normal--0-0-0-0-p-0-koi8-r
@@ -1961,8 +2272,8 @@ adventpro-extralight.ttf -adobe-advent pro-extralight-r-normal--0-0-0-0-p-0-iso1
 adventpro-extralight.ttf -adobe-advent pro-extralight-r-normal--0-0-0-0-p-0-iso8859-4
 adventpro-light.ttf -adobe-advent pro-light-r-normal--0-0-0-0-p-0-iso10646-1
 adventpro-light.ttf -adobe-advent pro-light-r-normal--0-0-0-0-p-0-iso8859-4
-adventpro-medium.ttf -adobe-advent pro-medium-r-normal--0-0-0-0-p-0-iso10646-1
-adventpro-medium.ttf -adobe-advent pro-medium-r-normal--0-0-0-0-p-0-iso8859-4
+adventpro-regular.ttf -adobe-advent pro-medium-r-normal--0-0-0-0-p-0-iso10646-1
+adventpro-regular.ttf -adobe-advent pro-medium-r-normal--0-0-0-0-p-0-iso8859-4
 adventpro-semibold.ttf -adobe-advent pro-semibold-r-normal--0-0-0-0-p-0-iso10646-1
 adventpro-semibold.ttf -adobe-advent pro-semibold-r-normal--0-0-0-0-p-0-iso8859-4
 adventpro-thin.ttf -adobe-advent pro-thin-r-normal--0-0-0-0-p-0-iso10646-1
