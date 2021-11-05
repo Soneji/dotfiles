@@ -181,7 +181,6 @@ nvm "$@"
 
 PATH=$PATH:~/Library/Android/sdk/ndk/21.3.6528147
 source ~/.local/share/yadm/pull.sh
-source ~/perl5/perlbrew/etc/bashrc
 
 
 
